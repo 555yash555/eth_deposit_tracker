@@ -36,7 +36,7 @@ app.set("view engine", "ejs");
 app.set("views", path.join(__dirname, "views"));
 // Connect to MongoDB
 app.get("/", (req, res) => {
-  res.render("view"); // Ensure 'index.ejs' exists in the 'views' directory
+  res.status(200).send('<h1>Welcome to the Homepage try /deposits</h1>');
 });
 
 mongoose
