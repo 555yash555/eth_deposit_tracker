@@ -254,7 +254,7 @@ The application uses **Winston** for comprehensive logging. Logs are stored in t
 
 ## Screenshot
 
-![Alt text](iamge.png)
+![Alt text](image.png)
 
 ## License
 
