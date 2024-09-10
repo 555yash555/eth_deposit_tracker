@@ -1,0 +1,25 @@
+{
+  "name": "eth_deposit_tracker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "eth_deposit_tracker": "file:",
+    "ethers": "^6.13.2",
+    "express": "^4.19.2",
+    "http": "^0.0.1-security",
+    "mongoose": "^8.6.1",
+    "socket.io": "^4.7.5",
+    "web3": "^4.12.1",
+    "winston": "^3.14.2"
+  }
+}

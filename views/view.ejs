@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ethereum Deposits Tracker</title>
+    <script src="/socket.io/socket.io.js"></script>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap"
+      rel="stylesheet"
+    />
+    <style>
+      :root {
+        --primary-color: #3498db;
+        --secondary-color: #2ecc71;
+        --background-color: #f4f4f4;
+        --text-color: #333;
+        --table-header-bg: #34495e;
+        --table-row-hover: #ecf0f1;
+      }
+
+      * {
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+      }
+
+      body {
+        font-family: "Roboto", sans-serif;
+        background-color: var(--background-color);
+        color: var(--text-color);
+        line-height: 1.6;
+      }
+
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+
+      h1 {
+        text-align: center;
+        color: var(--primary-color);
+        margin-bottom: 30px;
+        font-size: 2.5rem;
+      }
+
+      .controls {
+        display: flex;
+        justify-content: space-between;
+        margin-bottom: 20px;
+      }
+
+      input[type="text"],
+      select {
+        padding: 10px;
+        border: 1px solid #ddd;
+        border-radius: 4px;
+        font-size: 1rem;
+      }
+
+      .table-container {
+        background-color: white;
+        border-radius: 8px;
+        overflow: hidden;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
+
+      table {
+        width: 100%;
+        border-collapse: collapse;
+      }
+
+      th,
+      td {
+        padding: 15px;
+        text-align: left;
+      }
+
+      th {
+        background-color: var(--table-header-bg);
+        color: white;
+        font-weight: bold;
+        text-transform: uppercase;
+      }
+
+      tr:nth-child(even) {
+        background-color: #f8f9fa;
+      }
+
+      tr:hover {
+        background-color: var(--table-row-hover);
+      }
+
+      .scrollable {
+        max-height: 500px;
+        overflow-y: auto;
+      }
+
+      #updateStatus {
+        text-align: center;
+        margin-top: 20px;
+        font-style: italic;
+        color: var(--secondary-color);
+      }
+
+      @media (max-width: 768px) {
+        .controls {
+          flex-direction: column;
+        }
+
+        input[type="text"],
+        select {
+          width: 100%;
+          margin-bottom: 10px;
+        }
+
+        th,
+        td {
+          padding: 10px;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>Ethereum Deposits Tracker</h1>
+      <div class="controls">
+        <input
+          type="text"
+          id="filterKey"
+          placeholder="Filter by public key"
+          oninput="filterTable()"
+        />
+        <select id="sortField" onchange="sortTable()">
+          <option value="blockNumber">Sort by Block Number</option>
+          <option value="blockTimestamp" selected>Sort by Timestamp</option>
+          <option value="fee">Sort by Fee</option>
+        </select>
+      </div>
+      <div class="table-container">
+        <div class="scrollable">
+          <table id="depositsTable">
+            <thead>
+              <tr>
+                <th>Block Number</th>
+                <th>Timestamp</th>
+                <th>Fee</th>
+                <th>Transaction Hash</th>
+                <th>Public Key</th>
+              </tr>
+            </thead>
+            <tbody>
+              <% const uniqueDeposits = []; const blockNumbers = new Set();
+              deposits.forEach(deposit => { if
+              (!blockNumbers.has(deposit.blockNumber)) {
+              blockNumbers.add(deposit.blockNumber);
+              uniqueDeposits.push(deposit); } }); %> <%
+              uniqueDeposits.forEach(deposit => { %>
+              <tr>
+                <td><%= deposit.blockNumber %></td>
+                <td><%= deposit.blockTimestamp %></td>
+                <td><%= deposit.fee %></td>
+                <td><%= deposit.hash %></td>
+                <td><%= deposit.pubkey %></td>
+              </tr>
+              <% }) %>
+            </tbody>
+          </table>
+        </div>
+      </div>
+      <div id="updateStatus"></div>
+    </div>
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="/socket.io/socket.io.js"></script>
+    <script>
+      const socket = io();
+
+      socket.on("connect", () => {
+        console.log("Connected to server");
+      });
+
+      socket.on("disconnect", () => {
+        console.log("Disconnected from server");
+      });
+
+      socket.on("newDeposit", (deposit) => {
+        console.log("New deposit received", deposit);
+        updateTable([deposit]);
+      });
+
+      function updateTable(newDeposits) {
+        const tableBody = document.querySelector("#depositsTable tbody");
+        const existingBlockNumbers = new Set(
+          Array.from(tableBody.rows).map((row) => row.cells[0].textContent)
+        );
+
+        newDeposits.forEach((deposit) => {
+          if (!existingBlockNumbers.has(deposit.blockNumber)) {
+            const row = tableBody.insertRow(0);
+            row.innerHTML = `
+              <td>${deposit.blockNumber}</td>
+              <td>${deposit.blockTimestamp}</td>
+              <td>${deposit.fee}</td>
+              <td>${deposit.hash}</td>
+              <td>${deposit.pubkey}</td>
+            `;
+            existingBlockNumbers.add(deposit.blockNumber);
+          }
+        });
+        document.getElementById(
+          "updateStatus"
+        ).textContent = `Last updated: ${new Date().toLocaleString()}`;
+      }
+
+      function filterTable() {
+        const filterKey = document
+          .getElementById("filterKey")
+          .value.toLowerCase();
+        const rows = document.querySelectorAll("#depositsTable tbody tr");
+        rows.forEach((row) => {
+          const pubkey = row.cells[4].textContent.toLowerCase();
+          if (pubkey.includes(filterKey)) {
+            row.style.display = "";
+          } else {
+            row.style.display = "none";
+          }
+        });
+      }
+
+      function sortTable() {
+        const sortField = document.getElementById("sortField").value;
+        const rows = Array.from(
+          document.querySelectorAll("#depositsTable tbody tr")
+        );
+        rows.sort((a, b) => {
+          const aValue =
+            a.cells[
+              sortField === "blockTimestamp" ? 1 : sortField === "fee" ? 2 : 0
+            ].textContent;
+          const bValue =
+            b.cells[
+              sortField === "blockTimestamp" ? 1 : sortField === "fee" ? 2 : 0
+            ].textContent;
+          if (sortField === "fee") {
+            return parseFloat(bValue) - parseFloat(aValue); // Descending order for fee
+          } else if (sortField === "blockTimestamp") {
+            return new Date(bValue) - new Date(aValue); // Descending order for timestamp
+          } else {
+            return parseInt(bValue) - parseInt(aValue); // Descending order for block number
+          }
+        });
+        const tableBody = document.querySelector("#depositsTable tbody");
+        tableBody.innerHTML = "";
+        rows.forEach((row) => tableBody.appendChild(row));
+      }
+
+      // Initial setup
+      let lastBlockNumber = 0;
+      const initialDeposits = document.querySelectorAll(
+        "#depositsTable tbody tr"
+      );
+      if (initialDeposits.length > 0) {
+        lastBlockNumber = parseInt(initialDeposits[0].cells[0].textContent);
+      }
+
+      // Sort by timestamp by default
+      sortTable();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,2164 @@
+2024-09-10T02:30:56.155Z [info]: Syncing from block 20717239 to 20717249
+2024-09-10T02:31:00.645Z [info]: Blocks synced successfully up to 20717249
+2024-09-10T02:31:00.647Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T02:31:25.558Z [info]: New block header: 
+2024-09-10T02:31:27.210Z [info]: Processing block 20717251
+2024-09-10T02:31:27.247Z [info]: Block 20717251 saved in database.
+2024-09-10T08:56:39.123Z [info]: Syncing from block 20719155 to 20719165
+2024-09-10T08:56:42.915Z [info]: Blocks synced successfully up to 20719165
+2024-09-10T08:56:42.916Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T08:56:42.920Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T08:56:46.997Z [info]: New block: 
+2024-09-10T08:56:48.057Z [info]: Processing block 20719166
+2024-09-10T08:56:48.154Z [info]: Block 20719166 saved in database.
+2024-09-10T08:56:58.772Z [info]: New block: 
+2024-09-10T08:56:59.184Z [info]: Processing block 20719167
+2024-09-10T08:56:59.283Z [info]: Block 20719167 saved in database.
+2024-09-10T08:57:11.369Z [info]: New block: 
+2024-09-10T08:57:12.427Z [info]: Processing block 20719168
+2024-09-10T08:57:12.474Z [info]: Block 20719168 saved in database.
+2024-09-10T08:57:23.247Z [info]: New block: 
+2024-09-10T08:57:23.800Z [info]: Processing block 20719169
+2024-09-10T08:57:23.860Z [info]: Block 20719169 saved in database.
+2024-09-10T08:57:35.126Z [info]: New block: 
+2024-09-10T08:57:35.625Z [info]: Processing block 20719170
+2024-09-10T08:57:35.627Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 26, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T08:57:35.745Z [info]: Block 20719170 saved in database.
+2024-09-10T08:57:47.218Z [info]: New block: 
+2024-09-10T08:57:47.955Z [info]: Processing block 20719171
+2024-09-10T08:57:48.133Z [info]: Block 20719171 saved in database.
+2024-09-10T08:57:59.293Z [info]: New block: 
+2024-09-10T08:57:59.813Z [info]: Processing block 20719172
+2024-09-10T08:57:59.907Z [info]: Block 20719172 saved in database.
+2024-09-10T08:58:11.376Z [info]: New block: 
+2024-09-10T08:58:11.948Z [info]: Processing block 20719173
+2024-09-10T08:58:11.989Z [info]: Block 20719173 saved in database.
+2024-09-10T08:58:23.767Z [info]: New block: 
+2024-09-10T08:58:24.311Z [info]: Processing block 20719174
+2024-09-10T08:58:24.380Z [info]: Block 20719174 saved in database.
+2024-09-10T08:58:35.236Z [info]: New block: 
+2024-09-10T08:58:35.841Z [info]: Processing block 20719175
+2024-09-10T08:58:35.843Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 39, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T08:58:35.951Z [info]: Block 20719175 saved in database.
+2024-09-10T08:58:47.320Z [info]: New block: 
+2024-09-10T08:58:47.854Z [info]: Processing block 20719176
+2024-09-10T08:58:47.933Z [info]: Block 20719176 saved in database.
+2024-09-10T08:58:58.903Z [info]: New block: 
+2024-09-10T08:58:59.751Z [info]: Processing block 20719177
+2024-09-10T08:58:59.813Z [info]: Block 20719177 saved in database.
+2024-09-10T08:59:11.180Z [info]: New block: 
+2024-09-10T08:59:12.023Z [info]: Processing block 20719178
+2024-09-10T08:59:12.102Z [info]: Block 20719178 saved in database.
+2024-09-10T08:59:23.367Z [info]: New block: 
+2024-09-10T08:59:23.956Z [info]: Processing block 20719179
+2024-09-10T08:59:24.084Z [info]: Block 20719179 saved in database.
+2024-09-10T08:59:35.347Z [info]: New block: 
+2024-09-10T08:59:36.024Z [info]: Processing block 20719180
+2024-09-10T08:59:36.166Z [info]: Block 20719180 saved in database.
+2024-09-10T08:59:47.019Z [info]: New block: 
+2024-09-10T08:59:47.767Z [info]: Processing block 20719181
+2024-09-10T08:59:47.942Z [info]: Block 20719181 saved in database.
+2024-09-10T08:59:58.795Z [info]: New block: 
+2024-09-10T08:59:59.346Z [info]: Processing block 20719182
+2024-09-10T08:59:59.411Z [info]: Block 20719182 saved in database.
+2024-09-10T09:00:11.393Z [info]: New block: 
+2024-09-10T09:00:13.573Z [info]: Processing block 20719183
+2024-09-10T09:00:13.615Z [info]: Block 20719183 saved in database.
+2024-09-10T09:00:23.681Z [info]: New block: 
+2024-09-10T09:00:24.621Z [info]: Processing block 20719184
+2024-09-10T09:00:24.808Z [info]: Block 20719184 saved in database.
+2024-09-10T09:03:16.575Z [info]: Syncing from block 20719188 to 20719198
+2024-09-10T09:03:20.876Z [info]: Syncing from block 20719188 to 20719198
+2024-09-10T09:03:24.604Z [info]: Blocks synced successfully up to 20719198
+2024-09-10T09:03:24.607Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:03:24.617Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:03:35.313Z [info]: New block: 
+2024-09-10T09:03:36.898Z [info]: Processing block 20719200
+2024-09-10T09:03:36.941Z [info]: Block 20719200 saved in database.
+2024-09-10T09:03:37.144Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 18, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:03:47.499Z [info]: New block: 
+2024-09-10T09:03:48.369Z [info]: Processing block 20719201
+2024-09-10T09:03:48.409Z [info]: Block 20719201 saved in database.
+2024-09-10T09:03:59.479Z [info]: New block: 
+2024-09-10T09:04:00.359Z [info]: Processing block 20719202
+2024-09-10T09:04:00.403Z [info]: Block 20719202 saved in database.
+2024-09-10T09:04:11.371Z [info]: New block: 
+2024-09-10T09:04:12.479Z [info]: Processing block 20719203
+2024-09-10T09:04:12.712Z [info]: Block 20719203 saved in database.
+2024-09-10T09:04:22.733Z [info]: New block: 
+2024-09-10T09:04:23.474Z [info]: Processing block 20719204
+2024-09-10T09:04:23.760Z [info]: Block 20719204 saved in database.
+2024-09-10T09:04:35.217Z [info]: New block: 
+2024-09-10T09:04:35.961Z [info]: Processing block 20719205
+2024-09-10T09:04:36.156Z [info]: Block 20719205 saved in database.
+2024-09-10T09:04:36.390Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 27, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:04:46.899Z [info]: New block: 
+2024-09-10T09:04:48.107Z [info]: Processing block 20719206
+2024-09-10T09:04:48.381Z [info]: Block 20719206 saved in database.
+2024-09-10T09:04:59.284Z [info]: New block: 
+2024-09-10T09:04:59.938Z [info]: Processing block 20719207
+2024-09-10T09:05:00.103Z [info]: Block 20719207 saved in database.
+2024-09-10T09:05:11.262Z [info]: New block: 
+2024-09-10T09:05:11.917Z [info]: Processing block 20719208
+2024-09-10T09:05:12.084Z [info]: Block 20719208 saved in database.
+2024-09-10T09:05:23.040Z [info]: New block: 
+2024-09-10T09:05:23.750Z [info]: Processing block 20719209
+2024-09-10T09:05:23.962Z [info]: Block 20719209 saved in database.
+2024-09-10T09:05:34.844Z [info]: New block: 
+2024-09-10T09:05:35.267Z [info]: Processing block 20719210
+2024-09-10T09:05:35.307Z [info]: Block 20719210 saved in database.
+2024-09-10T09:05:35.505Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 36, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:05:47.338Z [info]: New block: 
+2024-09-10T09:05:48.234Z [info]: Processing block 20719211
+2024-09-10T09:05:48.332Z [info]: Block 20719211 saved in database.
+2024-09-10T09:05:59.290Z [info]: New block: 
+2024-09-10T09:05:59.942Z [info]: Processing block 20719212
+2024-09-10T09:06:00.110Z [info]: Block 20719212 saved in database.
+2024-09-10T09:06:11.169Z [info]: New block: 
+2024-09-10T09:06:12.360Z [info]: Processing block 20719213
+2024-09-10T09:06:12.501Z [info]: Block 20719213 saved in database.
+2024-09-10T09:06:23.252Z [info]: New block: 
+2024-09-10T09:06:23.932Z [info]: Processing block 20719214
+2024-09-10T09:06:24.072Z [info]: Block 20719214 saved in database.
+2024-09-10T09:06:35.027Z [info]: New block: 
+2024-09-10T09:06:35.469Z [info]: Processing block 20719215
+2024-09-10T09:06:35.541Z [info]: Block 20719215 saved in database.
+2024-09-10T09:06:35.746Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 45, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:06:48.546Z [info]: New block: 
+2024-09-10T09:06:49.519Z [info]: Processing block 20719216
+2024-09-10T09:06:49.673Z [info]: Block 20719216 saved in database.
+2024-09-10T09:06:59.605Z [info]: New block: 
+2024-09-10T09:07:00.307Z [info]: Processing block 20719217
+2024-09-10T09:07:00.426Z [info]: Block 20719217 saved in database.
+2024-09-10T09:07:11.484Z [info]: New block: 
+2024-09-10T09:07:11.880Z [info]: Processing block 20719218
+2024-09-10T09:07:11.996Z [info]: Block 20719218 saved in database.
+2024-09-10T09:07:24.285Z [info]: New block: 
+2024-09-10T09:07:25.177Z [info]: Processing block 20719219
+2024-09-10T09:07:25.224Z [info]: Block 20719219 saved in database.
+2024-09-10T09:07:34.423Z [info]: New block: 
+2024-09-10T09:07:34.771Z [info]: Processing block 20719220
+2024-09-10T09:07:34.833Z [info]: Block 20719220 saved in database.
+2024-09-10T09:07:35.221Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 54, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:07:47.331Z [info]: New block: 
+2024-09-10T09:07:48.372Z [info]: Processing block 20719221
+2024-09-10T09:07:48.556Z [info]: Block 20719221 saved in database.
+2024-09-10T09:07:59.102Z [info]: New block: 
+2024-09-10T09:07:59.811Z [info]: Processing block 20719222
+2024-09-10T09:07:59.920Z [info]: Block 20719222 saved in database.
+2024-09-10T09:08:11.060Z [info]: New block: 
+2024-09-10T09:08:11.561Z [info]: Processing block 20719223
+2024-09-10T09:08:11.623Z [info]: Block 20719223 saved in database.
+2024-09-10T09:08:23.097Z [info]: New block: 
+2024-09-10T09:08:23.768Z [info]: Processing block 20719224
+2024-09-10T09:08:23.806Z [info]: Block 20719224 saved in database.
+2024-09-10T09:08:35.211Z [info]: New block: 
+2024-09-10T09:08:35.698Z [info]: Processing block 20719225
+2024-09-10T09:08:35.736Z [info]: Block 20719225 saved in database.
+2024-09-10T09:08:35.945Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 63, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:08:47.532Z [info]: New block: 
+2024-09-10T09:08:48.181Z [info]: Processing block 20719226
+2024-09-10T09:08:48.347Z [info]: Block 20719226 saved in database.
+2024-09-10T09:08:58.805Z [info]: New block: 
+2024-09-10T09:08:59.554Z [info]: Processing block 20719227
+2024-09-10T09:08:59.593Z [info]: Block 20719227 saved in database.
+2024-09-10T09:09:11.205Z [info]: New block: 
+2024-09-10T09:09:11.541Z [info]: Processing block 20719228
+2024-09-10T09:09:11.579Z [info]: Block 20719228 saved in database.
+2024-09-10T09:09:23.011Z [info]: New block: 
+2024-09-10T09:09:23.599Z [info]: Processing block 20719229
+2024-09-10T09:09:23.638Z [info]: Block 20719229 saved in database.
+2024-09-10T09:09:35.210Z [info]: New block: 
+2024-09-10T09:09:35.972Z [info]: Processing block 20719230
+2024-09-10T09:09:36.019Z [info]: Block 20719230 saved in database.
+2024-09-10T09:09:36.210Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 72, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:09:39.218Z [info]: Syncing from block 20719220 to 20719230
+2024-09-10T09:09:39.791Z [info]: Block already exists in database.
+2024-09-10T09:09:40.118Z [info]: Block already exists in database.
+2024-09-10T09:09:40.421Z [info]: Block already exists in database.
+2024-09-10T09:09:40.741Z [info]: Block already exists in database.
+2024-09-10T09:09:41.096Z [info]: Block already exists in database.
+2024-09-10T09:09:45.038Z [info]: Syncing from block 20719220 to 20719230
+2024-09-10T09:09:45.586Z [info]: Block already exists in database.
+2024-09-10T09:09:45.899Z [info]: Block already exists in database.
+2024-09-10T09:09:46.191Z [info]: Block already exists in database.
+2024-09-10T09:09:46.504Z [info]: Block already exists in database.
+2024-09-10T09:09:46.807Z [info]: Block already exists in database.
+2024-09-10T09:09:47.114Z [info]: Block already exists in database.
+2024-09-10T09:09:47.425Z [info]: Block already exists in database.
+2024-09-10T09:09:47.743Z [info]: Block already exists in database.
+2024-09-10T09:09:48.054Z [info]: Block already exists in database.
+2024-09-10T09:09:48.356Z [info]: Block already exists in database.
+2024-09-10T09:09:48.649Z [info]: Block already exists in database.
+2024-09-10T09:09:48.650Z [info]: Blocks synced successfully up to 20719230
+2024-09-10T09:09:48.651Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:09:48.655Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:09:58.877Z [info]: New block: 
+2024-09-10T09:09:59.744Z [info]: Processing block 20719232
+2024-09-10T09:09:59.780Z [info]: Block 20719232 saved in database.
+2024-09-10T09:10:07.798Z [info]: Syncing from block 20719222 to 20719232
+2024-09-10T09:10:08.310Z [info]: Block already exists in database.
+2024-09-10T09:10:08.924Z [info]: Block already exists in database.
+2024-09-10T09:10:09.218Z [info]: Block already exists in database.
+2024-09-10T09:10:09.509Z [info]: Block already exists in database.
+2024-09-10T09:10:09.812Z [info]: Block already exists in database.
+2024-09-10T09:10:10.118Z [info]: Block already exists in database.
+2024-09-10T09:10:10.408Z [info]: Block already exists in database.
+2024-09-10T09:10:10.695Z [info]: Block already exists in database.
+2024-09-10T09:10:10.996Z [info]: Block already exists in database.
+2024-09-10T09:10:11.298Z [info]: Block already exists in database.
+2024-09-10T09:10:11.299Z [info]: Blocks synced successfully up to 20719232
+2024-09-10T09:10:11.299Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:10:11.303Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:10:23.376Z [info]: New block: 
+2024-09-10T09:10:25.211Z [info]: Processing block 20719234
+2024-09-10T09:10:25.252Z [info]: Block 20719234 saved in database.
+2024-09-10T09:10:35.549Z [info]: New block: 
+2024-09-10T09:10:36.356Z [info]: Processing block 20719235
+2024-09-10T09:10:36.411Z [info]: Block 20719235 saved in database.
+2024-09-10T09:10:36.618Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 19, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:10:46.885Z [info]: New block: 
+2024-09-10T09:10:47.684Z [info]: Processing block 20719236
+2024-09-10T09:10:47.724Z [info]: Block 20719236 saved in database.
+2024-09-10T09:10:59.094Z [info]: New block: 
+2024-09-10T09:10:59.768Z [info]: Processing block 20719237
+2024-09-10T09:10:59.810Z [info]: Block 20719237 saved in database.
+2024-09-10T09:11:11.110Z [info]: New block: 
+2024-09-10T09:11:11.753Z [info]: Processing block 20719238
+2024-09-10T09:11:11.792Z [info]: Block 20719238 saved in database.
+2024-09-10T09:11:23.394Z [info]: New block: 
+2024-09-10T09:11:24.088Z [info]: Processing block 20719239
+2024-09-10T09:11:24.130Z [info]: Block 20719239 saved in database.
+2024-09-10T09:11:35.322Z [info]: New block: 
+2024-09-10T09:11:35.874Z [info]: Processing block 20719240
+2024-09-10T09:11:35.916Z [info]: Block 20719240 saved in database.
+2024-09-10T09:11:36.116Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 28, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:11:47.006Z [info]: New block: 
+2024-09-10T09:11:47.619Z [info]: Processing block 20719241
+2024-09-10T09:11:47.661Z [info]: Block 20719241 saved in database.
+2024-09-10T09:11:59.294Z [info]: New block: 
+2024-09-10T09:11:59.851Z [info]: Processing block 20719242
+2024-09-10T09:11:59.892Z [info]: Block 20719242 saved in database.
+2024-09-10T09:12:12.273Z [info]: New block: 
+2024-09-10T09:12:12.785Z [info]: Processing block 20719243
+2024-09-10T09:12:12.832Z [info]: Block 20719243 saved in database.
+2024-09-10T09:12:24.093Z [info]: New block: 
+2024-09-10T09:12:24.881Z [info]: Processing block 20719244
+2024-09-10T09:12:24.919Z [info]: Block 20719244 saved in database.
+2024-09-10T09:12:34.930Z [info]: New block: 
+2024-09-10T09:12:35.488Z [info]: Processing block 20719245
+2024-09-10T09:12:35.531Z [info]: Block 20719245 saved in database.
+2024-09-10T09:12:35.763Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 37, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:12:47.009Z [info]: New block: 
+2024-09-10T09:12:47.511Z [info]: Processing block 20719246
+2024-09-10T09:12:47.552Z [info]: Block 20719246 saved in database.
+2024-09-10T09:12:53.356Z [info]: Syncing from block 20719236 to 20719246
+2024-09-10T09:12:53.935Z [info]: Block already exists in database.
+2024-09-10T09:12:54.262Z [info]: Block already exists in database.
+2024-09-10T09:12:54.598Z [info]: Block already exists in database.
+2024-09-10T09:12:54.925Z [info]: Block already exists in database.
+2024-09-10T09:12:55.260Z [info]: Block already exists in database.
+2024-09-10T09:12:55.595Z [info]: Block already exists in database.
+2024-09-10T09:12:55.919Z [info]: Block already exists in database.
+2024-09-10T09:12:56.250Z [info]: Block already exists in database.
+2024-09-10T09:12:58.515Z [info]: Syncing from block 20719236 to 20719246
+2024-09-10T09:13:00.837Z [info]: Syncing from block 20719237 to 20719247
+2024-09-10T09:13:01.688Z [info]: Block already exists in database.
+2024-09-10T09:13:02.004Z [info]: Block already exists in database.
+2024-09-10T09:13:02.310Z [info]: Block already exists in database.
+2024-09-10T09:13:02.630Z [info]: Block already exists in database.
+2024-09-10T09:13:02.936Z [info]: Block already exists in database.
+2024-09-10T09:13:03.254Z [info]: Block already exists in database.
+2024-09-10T09:13:03.567Z [info]: Block already exists in database.
+2024-09-10T09:13:03.883Z [info]: Block already exists in database.
+2024-09-10T09:13:04.196Z [info]: Block already exists in database.
+2024-09-10T09:13:04.507Z [info]: Block already exists in database.
+2024-09-10T09:13:04.507Z [info]: Blocks synced successfully up to 20719247
+2024-09-10T09:13:04.508Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:13:04.511Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:13:10.870Z [info]: New block: 
+2024-09-10T09:13:11.655Z [info]: Processing block 20719248
+2024-09-10T09:13:11.697Z [info]: Block 20719248 saved in database.
+2024-09-10T09:13:23.860Z [info]: New block: 
+2024-09-10T09:13:24.544Z [info]: Processing block 20719249
+2024-09-10T09:13:24.594Z [info]: Block 20719249 saved in database.
+2024-09-10T09:13:35.094Z [info]: New block: 
+2024-09-10T09:13:35.694Z [info]: Processing block 20719250
+2024-09-10T09:13:35.738Z [info]: Block 20719250 saved in database.
+2024-09-10T09:13:35.953Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 21, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:13:47.027Z [info]: New block: 
+2024-09-10T09:13:47.634Z [info]: Processing block 20719251
+2024-09-10T09:13:47.676Z [info]: Block 20719251 saved in database.
+2024-09-10T09:13:59.280Z [info]: New block: 
+2024-09-10T09:13:59.807Z [info]: Processing block 20719252
+2024-09-10T09:13:59.848Z [info]: Block 20719252 saved in database.
+2024-09-10T09:14:11.151Z [info]: New block: 
+2024-09-10T09:14:11.840Z [info]: Processing block 20719253
+2024-09-10T09:14:11.881Z [info]: Block 20719253 saved in database.
+2024-09-10T09:14:23.574Z [info]: New block: 
+2024-09-10T09:14:24.260Z [info]: Processing block 20719254
+2024-09-10T09:14:24.301Z [info]: Block 20719254 saved in database.
+2024-09-10T09:14:35.033Z [info]: New block: 
+2024-09-10T09:14:35.811Z [info]: Processing block 20719255
+2024-09-10T09:14:35.854Z [info]: Block 20719255 saved in database.
+2024-09-10T09:14:36.079Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 30, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:14:47.272Z [info]: New block: 
+2024-09-10T09:14:47.913Z [info]: Processing block 20719256
+2024-09-10T09:14:47.954Z [info]: Block 20719256 saved in database.
+2024-09-10T09:14:58.980Z [info]: New block: 
+2024-09-10T09:14:59.473Z [info]: Processing block 20719257
+2024-09-10T09:14:59.519Z [info]: Block 20719257 saved in database.
+2024-09-10T09:15:11.738Z [info]: New block: 
+2024-09-10T09:15:12.292Z [info]: Processing block 20719258
+2024-09-10T09:15:12.340Z [info]: Block 20719258 saved in database.
+2024-09-10T09:15:24.591Z [info]: New block: 
+2024-09-10T09:15:25.153Z [info]: Processing block 20719259
+2024-09-10T09:15:25.198Z [info]: Block 20719259 saved in database.
+2024-09-10T09:15:35.176Z [info]: New block: 
+2024-09-10T09:15:35.723Z [info]: Processing block 20719260
+2024-09-10T09:15:35.766Z [info]: Block 20719260 saved in database.
+2024-09-10T09:15:36.330Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 39, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:15:47.611Z [info]: New block: 
+2024-09-10T09:15:48.075Z [info]: Processing block 20719261
+2024-09-10T09:15:48.116Z [info]: Block 20719261 saved in database.
+2024-09-10T09:15:58.746Z [info]: New block: 
+2024-09-10T09:15:59.485Z [info]: Processing block 20719262
+2024-09-10T09:15:59.528Z [info]: Block 20719262 saved in database.
+2024-09-10T09:16:11.336Z [info]: New block: 
+2024-09-10T09:16:11.774Z [info]: Processing block 20719263
+2024-09-10T09:16:11.815Z [info]: Block 20719263 saved in database.
+2024-09-10T09:16:23.147Z [info]: New block: 
+2024-09-10T09:16:23.448Z [info]: Processing block 20719264
+2024-09-10T09:16:23.492Z [info]: Block 20719264 saved in database.
+2024-09-10T09:16:37.473Z [info]: Syncing from block 20719255 to 20719265
+2024-09-10T09:16:38.345Z [info]: Block already exists in database.
+2024-09-10T09:16:38.646Z [info]: Block already exists in database.
+2024-09-10T09:16:38.980Z [info]: Block already exists in database.
+2024-09-10T09:16:39.291Z [info]: Block already exists in database.
+2024-09-10T09:16:39.605Z [info]: Block already exists in database.
+2024-09-10T09:16:39.927Z [info]: Block already exists in database.
+2024-09-10T09:16:40.286Z [info]: Block already exists in database.
+2024-09-10T09:16:40.600Z [info]: Block already exists in database.
+2024-09-10T09:16:40.927Z [info]: Block already exists in database.
+2024-09-10T09:16:41.261Z [info]: Block already exists in database.
+2024-09-10T09:16:41.262Z [info]: Blocks synced successfully up to 20719265
+2024-09-10T09:16:41.263Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:16:41.266Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:16:46.876Z [info]: New block: 
+2024-09-10T09:16:47.749Z [info]: Processing block 20719266
+2024-09-10T09:16:47.786Z [info]: Block 20719266 saved in database.
+2024-09-10T09:16:59.296Z [info]: New block: 
+2024-09-10T09:16:59.850Z [info]: Processing block 20719267
+2024-09-10T09:16:59.887Z [info]: Block 20719267 saved in database.
+2024-09-10T09:17:09.080Z [info]: Syncing from block 20719257 to 20719267
+2024-09-10T09:17:09.416Z [info]: Block already exists in database.
+2024-09-10T09:17:09.738Z [info]: Block already exists in database.
+2024-09-10T09:17:10.073Z [info]: Block already exists in database.
+2024-09-10T09:17:10.382Z [info]: Block already exists in database.
+2024-09-10T09:17:10.714Z [info]: Block already exists in database.
+2024-09-10T09:17:11.041Z [info]: Block already exists in database.
+2024-09-10T09:17:11.345Z [info]: Block already exists in database.
+2024-09-10T09:17:11.670Z [info]: Block already exists in database.
+2024-09-10T09:17:12.011Z [info]: Block already exists in database.
+2024-09-10T09:17:12.339Z [info]: Block already exists in database.
+2024-09-10T09:17:12.658Z [info]: Block already exists in database.
+2024-09-10T09:17:12.658Z [info]: Blocks synced successfully up to 20719267
+2024-09-10T09:17:12.659Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:17:12.663Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:17:18.983Z [info]: Syncing from block 20719258 to 20719268
+2024-09-10T09:17:19.853Z [info]: Block already exists in database.
+2024-09-10T09:17:20.197Z [info]: Block already exists in database.
+2024-09-10T09:17:20.525Z [info]: Block already exists in database.
+2024-09-10T09:17:20.841Z [info]: Block already exists in database.
+2024-09-10T09:17:21.159Z [info]: Block already exists in database.
+2024-09-10T09:17:21.485Z [info]: Block already exists in database.
+2024-09-10T09:17:21.794Z [info]: Block already exists in database.
+2024-09-10T09:17:22.105Z [info]: Block already exists in database.
+2024-09-10T09:17:22.430Z [info]: Block already exists in database.
+2024-09-10T09:17:22.757Z [info]: Block already exists in database.
+2024-09-10T09:17:22.757Z [info]: Blocks synced successfully up to 20719268
+2024-09-10T09:17:22.758Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:17:22.763Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:17:24.056Z [info]: New block: 
+2024-09-10T09:17:24.958Z [info]: Processing block 20719269
+2024-09-10T09:17:25.001Z [info]: Block 20719269 saved in database.
+2024-09-10T09:17:35.349Z [info]: New block: 
+2024-09-10T09:17:35.949Z [info]: Processing block 20719270
+2024-09-10T09:17:36.006Z [info]: Block 20719270 saved in database.
+2024-09-10T09:17:37.054Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 19, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:17:47.096Z [info]: New block: 
+2024-09-10T09:17:47.679Z [info]: Processing block 20719271
+2024-09-10T09:17:47.723Z [info]: Block 20719271 saved in database.
+2024-09-10T09:17:58.865Z [info]: New block: 
+2024-09-10T09:17:59.357Z [info]: Processing block 20719272
+2024-09-10T09:17:59.400Z [info]: Block 20719272 saved in database.
+2024-09-10T09:18:11.052Z [info]: New block: 
+2024-09-10T09:18:11.579Z [info]: Processing block 20719273
+2024-09-10T09:18:11.626Z [info]: Block 20719273 saved in database.
+2024-09-10T09:18:22.862Z [info]: New block: 
+2024-09-10T09:18:23.473Z [info]: Processing block 20719274
+2024-09-10T09:18:23.517Z [info]: Block 20719274 saved in database.
+2024-09-10T09:18:35.378Z [info]: New block: 
+2024-09-10T09:18:35.924Z [info]: Processing block 20719275
+2024-09-10T09:18:35.974Z [info]: Block 20719275 saved in database.
+2024-09-10T09:18:36.194Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 28, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:18:46.976Z [info]: New block: 
+2024-09-10T09:18:47.361Z [info]: Processing block 20719276
+2024-09-10T09:18:47.403Z [info]: Block 20719276 saved in database.
+2024-09-10T09:18:59.401Z [info]: New block: 
+2024-09-10T09:19:00.056Z [info]: Processing block 20719277
+2024-09-10T09:19:00.097Z [info]: Block 20719277 saved in database.
+2024-09-10T09:19:11.066Z [info]: New block: 
+2024-09-10T09:19:11.853Z [info]: Processing block 20719278
+2024-09-10T09:19:11.895Z [info]: Block 20719278 saved in database.
+2024-09-10T09:19:22.618Z [info]: New block: 
+2024-09-10T09:19:22.907Z [info]: Processing block 20719279
+2024-09-10T09:19:22.956Z [info]: Block 20719279 saved in database.
+2024-09-10T09:19:35.821Z [info]: New block: 
+2024-09-10T09:19:36.611Z [info]: Processing block 20719280
+2024-09-10T09:19:36.658Z [info]: Block 20719280 saved in database.
+2024-09-10T09:19:36.881Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 37, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:19:48.233Z [info]: New block: 
+2024-09-10T09:19:49.155Z [info]: Processing block 20719281
+2024-09-10T09:19:49.199Z [info]: Block 20719281 saved in database.
+2024-09-10T09:20:00.443Z [info]: New block: 
+2024-09-10T09:20:00.912Z [info]: Processing block 20719282
+2024-09-10T09:20:00.955Z [info]: Block 20719282 saved in database.
+2024-09-10T09:20:10.978Z [info]: New block: 
+2024-09-10T09:20:11.587Z [info]: Processing block 20719283
+2024-09-10T09:20:11.631Z [info]: Block 20719283 saved in database.
+2024-09-10T09:20:23.123Z [info]: New block: 
+2024-09-10T09:20:23.615Z [info]: Processing block 20719284
+2024-09-10T09:20:23.659Z [info]: Block 20719284 saved in database.
+2024-09-10T09:20:35.311Z [info]: New block: 
+2024-09-10T09:20:35.821Z [info]: Processing block 20719285
+2024-09-10T09:20:35.864Z [info]: Block 20719285 saved in database.
+2024-09-10T09:20:36.078Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 46, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:20:48.211Z [info]: New block: 
+2024-09-10T09:20:49.135Z [info]: Processing block 20719286
+2024-09-10T09:20:49.181Z [info]: Block 20719286 saved in database.
+2024-09-10T09:21:11.093Z [info]: New block: 
+2024-09-10T09:21:11.689Z [info]: Processing block 20719287
+2024-09-10T09:21:11.728Z [info]: Block 20719287 saved in database.
+2024-09-10T09:21:23.259Z [info]: New block: 
+2024-09-10T09:21:23.988Z [info]: Processing block 20719288
+2024-09-10T09:21:24.032Z [info]: Block 20719288 saved in database.
+2024-09-10T09:21:34.628Z [info]: New block: 
+2024-09-10T09:21:35.130Z [info]: Processing block 20719289
+2024-09-10T09:21:35.169Z [info]: Block 20719289 saved in database.
+2024-09-10T09:21:35.389Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 54, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:21:46.961Z [info]: New block: 
+2024-09-10T09:21:47.730Z [info]: Processing block 20719290
+2024-09-10T09:21:47.769Z [info]: Block 20719290 saved in database.
+2024-09-10T09:21:59.608Z [info]: New block: 
+2024-09-10T09:22:00.071Z [info]: Processing block 20719291
+2024-09-10T09:22:00.108Z [info]: Block 20719291 saved in database.
+2024-09-10T09:22:11.044Z [info]: New block: 
+2024-09-10T09:22:11.650Z [info]: Processing block 20719292
+2024-09-10T09:22:11.686Z [info]: Block 20719292 saved in database.
+2024-09-10T09:22:23.776Z [info]: New block: 
+2024-09-10T09:22:24.270Z [info]: Processing block 20719293
+2024-09-10T09:22:24.308Z [info]: Block 20719293 saved in database.
+2024-09-10T09:22:35.310Z [info]: New block: 
+2024-09-10T09:22:35.938Z [info]: Processing block 20719294
+2024-09-10T09:22:35.980Z [info]: Block 20719294 saved in database.
+2024-09-10T09:22:36.206Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 63, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:22:36.207Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 63, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:22:36.207Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 63, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:22:36.208Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 63, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:22:47.461Z [info]: New block: 
+2024-09-10T09:22:47.984Z [info]: Processing block 20719295
+2024-09-10T09:22:48.021Z [info]: Block 20719295 saved in database.
+2024-09-10T09:22:59.728Z [info]: New block: 
+2024-09-10T09:23:00.114Z [info]: Processing block 20719296
+2024-09-10T09:23:00.152Z [info]: Block 20719296 saved in database.
+2024-09-10T09:23:11.445Z [info]: New block: 
+2024-09-10T09:23:12.121Z [info]: Processing block 20719297
+2024-09-10T09:23:12.156Z [info]: Block 20719297 saved in database.
+2024-09-10T09:23:23.476Z [info]: New block: 
+2024-09-10T09:23:24.199Z [info]: Processing block 20719298
+2024-09-10T09:23:24.242Z [info]: Block 20719298 saved in database.
+2024-09-10T09:23:34.936Z [info]: New block: 
+2024-09-10T09:23:35.471Z [info]: Processing block 20719299
+2024-09-10T09:23:35.511Z [info]: Block 20719299 saved in database.
+2024-09-10T09:23:35.731Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 72, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:23:47.339Z [info]: New block: 
+2024-09-10T09:23:47.961Z [info]: Processing block 20719300
+2024-09-10T09:23:47.997Z [info]: Block 20719300 saved in database.
+2024-09-10T09:23:59.747Z [info]: New block: 
+2024-09-10T09:24:00.256Z [info]: Processing block 20719301
+2024-09-10T09:24:00.291Z [info]: Block 20719301 saved in database.
+2024-09-10T09:24:06.510Z [info]: Syncing from block 20719291 to 20719301
+2024-09-10T09:24:06.836Z [info]: Block already exists in database.
+2024-09-10T09:24:07.167Z [info]: Block already exists in database.
+2024-09-10T09:24:07.501Z [info]: Block already exists in database.
+2024-09-10T09:24:07.816Z [info]: Block already exists in database.
+2024-09-10T09:24:08.148Z [info]: Block already exists in database.
+2024-09-10T09:24:08.459Z [info]: Block already exists in database.
+2024-09-10T09:24:08.780Z [info]: Block already exists in database.
+2024-09-10T09:24:09.107Z [info]: Block already exists in database.
+2024-09-10T09:24:09.428Z [info]: Block already exists in database.
+2024-09-10T09:24:09.740Z [info]: Block already exists in database.
+2024-09-10T09:24:10.052Z [info]: Block already exists in database.
+2024-09-10T09:24:10.053Z [info]: Blocks synced successfully up to 20719301
+2024-09-10T09:24:10.054Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:24:10.057Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:24:10.998Z [info]: New block: 
+2024-09-10T09:24:11.828Z [info]: Processing block 20719302
+2024-09-10T09:24:11.896Z [info]: Block 20719302 saved in database.
+2024-09-10T09:24:23.457Z [info]: New block: 
+2024-09-10T09:24:24.118Z [info]: Processing block 20719303
+2024-09-10T09:24:24.153Z [info]: Block 20719303 saved in database.
+2024-09-10T09:24:35.317Z [info]: New block: 
+2024-09-10T09:24:35.805Z [info]: Processing block 20719304
+2024-09-10T09:24:35.842Z [info]: Block 20719304 saved in database.
+2024-09-10T09:24:36.067Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 20, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:24:47.059Z [info]: New block: 
+2024-09-10T09:24:47.699Z [info]: Processing block 20719305
+2024-09-10T09:24:47.737Z [info]: Block 20719305 saved in database.
+2024-09-10T09:24:47.979Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 24, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:24:47.979Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 24, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:24:47.980Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 24, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:24:59.352Z [info]: New block: 
+2024-09-10T09:24:59.879Z [info]: Processing block 20719306
+2024-09-10T09:24:59.912Z [info]: Block 20719306 saved in database.
+2024-09-10T09:25:11.220Z [info]: Syncing from block 20719296 to 20719306
+2024-09-10T09:25:11.518Z [info]: Block already exists in database.
+2024-09-10T09:25:11.808Z [info]: Block already exists in database.
+2024-09-10T09:25:12.090Z [info]: Block already exists in database.
+2024-09-10T09:25:12.386Z [info]: Block already exists in database.
+2024-09-10T09:25:12.675Z [info]: Block already exists in database.
+2024-09-10T09:25:12.955Z [info]: Block already exists in database.
+2024-09-10T09:25:16.538Z [info]: Syncing from block 20719297 to 20719307
+2024-09-10T09:25:17.356Z [info]: Block already exists in database.
+2024-09-10T09:25:17.660Z [info]: Block already exists in database.
+2024-09-10T09:25:17.957Z [info]: Block already exists in database.
+2024-09-10T09:25:18.248Z [info]: Block already exists in database.
+2024-09-10T09:25:18.549Z [info]: Block already exists in database.
+2024-09-10T09:25:18.837Z [info]: Block already exists in database.
+2024-09-10T09:25:19.148Z [info]: Block already exists in database.
+2024-09-10T09:25:19.444Z [info]: Block already exists in database.
+2024-09-10T09:25:19.739Z [info]: Block already exists in database.
+2024-09-10T09:25:20.056Z [info]: Block already exists in database.
+2024-09-10T09:25:20.056Z [info]: Blocks synced successfully up to 20719307
+2024-09-10T09:25:20.057Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:25:20.061Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:25:36.162Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 17, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:26:36.694Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 21, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:27:38.086Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 25, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:27:42.789Z [info]: Syncing from block 20719309 to 20719319
+2024-09-10T09:27:48.083Z [info]: Syncing from block 20719310 to 20719320
+2024-09-10T09:27:51.848Z [info]: Blocks synced successfully up to 20719320
+2024-09-10T09:27:51.849Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:27:51.853Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:27:59.632Z [info]: New block: 
+2024-09-10T09:28:00.681Z [info]: Processing block 20719321
+2024-09-10T09:28:00.720Z [info]: Block 20719321 saved in database.
+2024-09-10T09:28:10.975Z [info]: New block: 
+2024-09-10T09:28:11.643Z [info]: Processing block 20719322
+2024-09-10T09:28:11.694Z [info]: Block 20719322 saved in database.
+2024-09-10T09:28:23.317Z [info]: New block: 
+2024-09-10T09:28:23.855Z [info]: Processing block 20719323
+2024-09-10T09:28:23.904Z [info]: Block 20719323 saved in database.
+2024-09-10T09:28:35.399Z [info]: New block: 
+2024-09-10T09:28:35.989Z [info]: Processing block 20719324
+2024-09-10T09:28:36.030Z [info]: Block 20719324 saved in database.
+2024-09-10T09:28:36.277Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 22, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:28:47.249Z [info]: New block: 
+2024-09-10T09:28:47.870Z [info]: Processing block 20719325
+2024-09-10T09:28:47.917Z [info]: Block 20719325 saved in database.
+2024-09-10T09:28:58.856Z [info]: New block: 
+2024-09-10T09:28:59.437Z [info]: Processing block 20719326
+2024-09-10T09:28:59.472Z [info]: Block 20719326 saved in database.
+2024-09-10T09:29:10.632Z [info]: New block: 
+2024-09-10T09:29:11.242Z [info]: Processing block 20719327
+2024-09-10T09:29:11.279Z [info]: Block 20719327 saved in database.
+2024-09-10T09:29:23.164Z [info]: New block: 
+2024-09-10T09:29:23.710Z [info]: Processing block 20719328
+2024-09-10T09:29:23.749Z [info]: Block 20719328 saved in database.
+2024-09-10T09:29:35.379Z [info]: New block: 
+2024-09-10T09:29:36.635Z [info]: Processing block 20719329
+2024-09-10T09:29:36.809Z [info]: Block 20719329 saved in database.
+2024-09-10T09:29:37.058Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 31, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:29:47.344Z [info]: New block: 
+2024-09-10T09:29:47.914Z [info]: Processing block 20719330
+2024-09-10T09:29:47.957Z [info]: Block 20719330 saved in database.
+2024-09-10T09:29:59.489Z [info]: New block: 
+2024-09-10T09:30:00.145Z [info]: Processing block 20719331
+2024-09-10T09:30:00.183Z [info]: Block 20719331 saved in database.
+2024-09-10T09:30:11.782Z [info]: New block: 
+2024-09-10T09:30:12.406Z [info]: Processing block 20719332
+2024-09-10T09:30:12.443Z [info]: Block 20719332 saved in database.
+2024-09-10T09:30:22.996Z [info]: New block: 
+2024-09-10T09:30:23.621Z [info]: Processing block 20719333
+2024-09-10T09:30:23.658Z [info]: Block 20719333 saved in database.
+2024-09-10T09:30:35.532Z [info]: New block: 
+2024-09-10T09:30:36.050Z [info]: Processing block 20719334
+2024-09-10T09:30:36.092Z [info]: Block 20719334 saved in database.
+2024-09-10T09:30:36.314Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 40, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:30:46.990Z [info]: New block: 
+2024-09-10T09:30:47.583Z [info]: Processing block 20719335
+2024-09-10T09:30:47.622Z [info]: Block 20719335 saved in database.
+2024-09-10T09:30:58.843Z [info]: New block: 
+2024-09-10T09:30:59.448Z [info]: Processing block 20719336
+2024-09-10T09:30:59.486Z [info]: Block 20719336 saved in database.
+2024-09-10T09:31:11.224Z [info]: New block: 
+2024-09-10T09:31:11.846Z [info]: Processing block 20719337
+2024-09-10T09:31:11.886Z [info]: Block 20719337 saved in database.
+2024-09-10T09:31:22.961Z [info]: New block: 
+2024-09-10T09:31:23.335Z [info]: Processing block 20719338
+2024-09-10T09:31:23.375Z [info]: Block 20719338 saved in database.
+2024-09-10T09:31:35.438Z [info]: New block: 
+2024-09-10T09:31:36.777Z [info]: Processing block 20719339
+2024-09-10T09:31:37.058Z [info]: Block 20719339 saved in database.
+2024-09-10T09:31:37.319Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 49, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:31:37.325Z [error]: Error processing log data: could not coalesce error (error={ "code": -32602, "message": "data types must start with 0x" }, payload={ "id": 49, "jsonrpc": "2.0", "method": "eth_getTransactionByHash", "params": [ null ] }, code=UNKNOWN_ERROR, version=6.13.2)
+2024-09-10T09:31:48.337Z [info]: New block: 
+2024-09-10T09:31:48.907Z [info]: Processing block 20719340
+2024-09-10T09:31:49.054Z [info]: Block 20719340 saved in database.
+2024-09-10T09:31:59.395Z [info]: New block: 
+2024-09-10T09:31:59.878Z [info]: Processing block 20719341
+2024-09-10T09:32:00.009Z [info]: Block 20719341 saved in database.
+2024-09-10T09:32:10.863Z [info]: New block: 
+2024-09-10T09:32:11.484Z [info]: Processing block 20719342
+2024-09-10T09:32:11.524Z [info]: Block 20719342 saved in database.
+2024-09-10T09:32:23.358Z [info]: New block: 
+2024-09-10T09:32:24.277Z [info]: Processing block 20719343
+2024-09-10T09:32:24.382Z [info]: Block 20719343 saved in database.
+2024-09-10T09:32:37.881Z [info]: Syncing from block 20719334 to 20719344
+2024-09-10T09:32:40.055Z [info]: Syncing from block 20719334 to 20719344
+2024-09-10T09:32:40.713Z [info]: Block already exists in database.
+2024-09-10T09:32:48.462Z [info]: Syncing from block 20719335 to 20719345
+2024-09-10T09:32:49.059Z [info]: Block already exists in database.
+2024-09-10T09:32:49.371Z [info]: Block already exists in database.
+2024-09-10T09:32:49.694Z [info]: Block already exists in database.
+2024-09-10T09:32:50.009Z [info]: Block already exists in database.
+2024-09-10T09:32:50.309Z [info]: Block already exists in database.
+2024-09-10T09:32:50.633Z [info]: Block already exists in database.
+2024-09-10T09:32:50.927Z [info]: Block already exists in database.
+2024-09-10T09:32:51.276Z [info]: Block already exists in database.
+2024-09-10T09:32:51.583Z [info]: Block already exists in database.
+2024-09-10T09:32:51.892Z [info]: Block already exists in database.
+2024-09-10T09:32:51.892Z [info]: Blocks synced successfully up to 20719345
+2024-09-10T09:32:51.893Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:32:51.897Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:32:59.674Z [info]: New block: 
+2024-09-10T09:33:00.678Z [info]: Processing block 20719346
+2024-09-10T09:33:00.718Z [info]: Block 20719346 saved in database.
+2024-09-10T09:33:10.873Z [info]: New block: 
+2024-09-10T09:33:11.689Z [info]: Processing block 20719347
+2024-09-10T09:33:11.729Z [info]: Block 20719347 saved in database.
+2024-09-10T09:33:24.378Z [info]: New block: 
+2024-09-10T09:33:25.023Z [info]: Processing block 20719348
+2024-09-10T09:33:25.063Z [info]: Block 20719348 saved in database.
+2024-09-10T09:33:35.654Z [info]: New block: 
+2024-09-10T09:33:36.300Z [info]: Processing block 20719349
+2024-09-10T09:33:36.312Z [error]: Error processing log data: transactionHash is not defined
+2024-09-10T09:33:36.474Z [info]: Block 20719349 saved in database.
+2024-09-10T09:33:47.953Z [info]: New block: 
+2024-09-10T09:33:48.674Z [info]: Processing block 20719350
+2024-09-10T09:33:48.761Z [info]: Block 20719350 saved in database.
+2024-09-10T09:33:59.412Z [info]: New block: 
+2024-09-10T09:34:00.016Z [info]: Processing block 20719351
+2024-09-10T09:34:00.057Z [info]: Block 20719351 saved in database.
+2024-09-10T09:34:10.983Z [info]: New block: 
+2024-09-10T09:34:11.450Z [info]: Processing block 20719352
+2024-09-10T09:34:11.598Z [info]: Block 20719352 saved in database.
+2024-09-10T09:34:23.271Z [info]: New block: 
+2024-09-10T09:34:23.923Z [info]: Processing block 20719353
+2024-09-10T09:34:23.963Z [info]: Block 20719353 saved in database.
+2024-09-10T09:34:35.662Z [info]: New block: 
+2024-09-10T09:34:36.237Z [info]: Processing block 20719354
+2024-09-10T09:34:36.262Z [error]: Error processing log data: transactionHash is not defined
+2024-09-10T09:34:36.378Z [info]: Block 20719354 saved in database.
+2024-09-10T09:34:47.428Z [info]: New block: 
+2024-09-10T09:34:47.958Z [info]: Processing block 20719355
+2024-09-10T09:34:47.997Z [info]: Block 20719355 saved in database.
+2024-09-10T09:34:59.523Z [info]: New block: 
+2024-09-10T09:35:00.141Z [info]: Processing block 20719356
+2024-09-10T09:35:00.187Z [info]: Block 20719356 saved in database.
+2024-09-10T09:35:11.343Z [info]: New block: 
+2024-09-10T09:35:12.386Z [info]: Processing block 20719357
+2024-09-10T09:35:12.425Z [info]: Block 20719357 saved in database.
+2024-09-10T09:35:24.406Z [info]: New block: 
+2024-09-10T09:35:24.909Z [info]: Processing block 20719358
+2024-09-10T09:35:25.021Z [info]: Block 20719358 saved in database.
+2024-09-10T09:35:35.568Z [info]: New block: 
+2024-09-10T09:35:36.244Z [info]: Processing block 20719359
+2024-09-10T09:35:36.260Z [error]: Error processing log data: transactionHash is not defined
+2024-09-10T09:35:36.284Z [info]: Block 20719359 saved in database.
+2024-09-10T09:35:46.833Z [info]: New block: 
+2024-09-10T09:35:47.372Z [info]: Processing block 20719360
+2024-09-10T09:35:47.445Z [info]: Block 20719360 saved in database.
+2024-09-10T09:35:59.100Z [info]: New block: 
+2024-09-10T09:35:59.693Z [info]: Processing block 20719361
+2024-09-10T09:35:59.733Z [info]: Block 20719361 saved in database.
+2024-09-10T09:36:10.929Z [info]: New block: 
+2024-09-10T09:36:11.661Z [info]: Processing block 20719362
+2024-09-10T09:36:11.700Z [info]: Block 20719362 saved in database.
+2024-09-10T09:36:23.267Z [info]: New block: 
+2024-09-10T09:36:23.794Z [info]: Processing block 20719363
+2024-09-10T09:36:23.832Z [info]: Block 20719363 saved in database.
+2024-09-10T09:36:35.166Z [info]: New block: 
+2024-09-10T09:36:35.802Z [info]: Processing block 20719364
+2024-09-10T09:36:35.840Z [info]: Block 20719364 saved in database.
+2024-09-10T09:36:48.177Z [info]: New block: 
+2024-09-10T09:36:48.747Z [info]: Processing block 20719365
+2024-09-10T09:36:48.787Z [info]: Block 20719365 saved in database.
+2024-09-10T09:36:58.645Z [info]: New block: 
+2024-09-10T09:36:59.121Z [info]: Processing block 20719366
+2024-09-10T09:36:59.160Z [info]: Block 20719366 saved in database.
+2024-09-10T09:37:10.981Z [info]: New block: 
+2024-09-10T09:37:11.752Z [info]: Processing block 20719367
+2024-09-10T09:37:11.798Z [info]: Block 20719367 saved in database.
+2024-09-10T09:37:24.047Z [info]: New block: 
+2024-09-10T09:37:24.550Z [info]: Processing block 20719368
+2024-09-10T09:37:24.588Z [info]: Block 20719368 saved in database.
+2024-09-10T09:37:35.231Z [info]: New block: 
+2024-09-10T09:37:35.831Z [info]: Processing block 20719369
+2024-09-10T09:37:35.870Z [info]: Block 20719369 saved in database.
+2024-09-10T09:37:48.330Z [info]: New block: 
+2024-09-10T09:37:48.837Z [info]: Processing block 20719370
+2024-09-10T09:37:48.877Z [info]: Block 20719370 saved in database.
+2024-09-10T09:37:58.929Z [info]: New block: 
+2024-09-10T09:37:59.638Z [info]: Processing block 20719371
+2024-09-10T09:37:59.678Z [info]: Block 20719371 saved in database.
+2024-09-10T09:38:12.617Z [info]: New block: 
+2024-09-10T09:38:13.303Z [info]: Processing block 20719372
+2024-09-10T09:38:13.342Z [info]: Block 20719372 saved in database.
+2024-09-10T09:38:22.884Z [info]: New block: 
+2024-09-10T09:38:23.440Z [info]: Processing block 20719373
+2024-09-10T09:38:23.481Z [info]: Block 20719373 saved in database.
+2024-09-10T09:38:34.341Z [info]: New block: 
+2024-09-10T09:38:34.937Z [info]: Processing block 20719374
+2024-09-10T09:38:34.978Z [info]: Block 20719374 saved in database.
+2024-09-10T09:38:47.199Z [info]: New block: 
+2024-09-10T09:38:47.806Z [info]: Processing block 20719375
+2024-09-10T09:38:47.844Z [info]: Block 20719375 saved in database.
+2024-09-10T09:38:57.057Z [info]: Syncing from block 20719365 to 20719375
+2024-09-10T09:38:57.605Z [info]: Block already exists in database.
+2024-09-10T09:38:57.922Z [info]: Block already exists in database.
+2024-09-10T09:38:58.245Z [info]: Block already exists in database.
+2024-09-10T09:38:58.574Z [info]: Block already exists in database.
+2024-09-10T09:38:58.883Z [info]: Block already exists in database.
+2024-09-10T09:38:59.202Z [info]: Block already exists in database.
+2024-09-10T09:38:59.538Z [info]: Block already exists in database.
+2024-09-10T09:38:59.853Z [info]: Block already exists in database.
+2024-09-10T09:39:00.173Z [info]: Block already exists in database.
+2024-09-10T09:39:00.481Z [info]: Block already exists in database.
+2024-09-10T09:39:00.797Z [info]: Block already exists in database.
+2024-09-10T09:39:00.797Z [info]: Blocks synced successfully up to 20719375
+2024-09-10T09:39:00.798Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:39:00.802Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:39:11.091Z [info]: New block: 
+2024-09-10T09:39:11.916Z [info]: Processing block 20719377
+2024-09-10T09:39:11.962Z [info]: Block 20719377 saved in database.
+2024-09-10T09:39:18.915Z [info]: Syncing from block 20719367 to 20719377
+2024-09-10T09:39:19.252Z [info]: Block already exists in database.
+2024-09-10T09:39:21.794Z [info]: Syncing from block 20719367 to 20719377
+2024-09-10T09:39:22.144Z [info]: Block already exists in database.
+2024-09-10T09:39:22.465Z [info]: Block already exists in database.
+2024-09-10T09:39:22.781Z [info]: Block already exists in database.
+2024-09-10T09:39:23.105Z [info]: Block already exists in database.
+2024-09-10T09:39:23.421Z [info]: Block already exists in database.
+2024-09-10T09:39:23.745Z [info]: Block already exists in database.
+2024-09-10T09:39:24.081Z [info]: Block already exists in database.
+2024-09-10T09:39:24.398Z [info]: Block already exists in database.
+2024-09-10T09:39:24.716Z [info]: Block already exists in database.
+2024-09-10T09:39:25.036Z [info]: Block already exists in database.
+2024-09-10T09:39:25.614Z [info]: Block already exists in database.
+2024-09-10T09:39:25.615Z [info]: Blocks synced successfully up to 20719377
+2024-09-10T09:39:25.615Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:39:25.620Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:39:35.925Z [info]: New block: 
+2024-09-10T09:39:37.551Z [info]: Processing block 20719379
+2024-09-10T09:39:37.598Z [info]: Block 20719379 saved in database.
+2024-09-10T09:39:47.290Z [info]: New block: 
+2024-09-10T09:39:48.365Z [info]: Processing block 20719380
+2024-09-10T09:39:48.410Z [info]: Block 20719380 saved in database.
+2024-09-10T09:39:59.456Z [info]: New block: 
+2024-09-10T09:40:00.798Z [info]: Processing block 20719381
+2024-09-10T09:40:00.845Z [info]: Block 20719381 saved in database.
+2024-09-10T09:40:11.408Z [info]: New block: 
+2024-09-10T09:40:12.982Z [info]: Processing block 20719382
+2024-09-10T09:40:13.029Z [info]: Block 20719382 saved in database.
+2024-09-10T09:40:24.221Z [info]: New block: 
+2024-09-10T09:40:25.638Z [info]: Processing block 20719383
+2024-09-10T09:40:25.682Z [info]: Block 20719383 saved in database.
+2024-09-10T09:40:35.692Z [info]: New block: 
+2024-09-10T09:40:36.780Z [info]: Processing block 20719384
+2024-09-10T09:40:36.833Z [info]: Block 20719384 saved in database.
+2024-09-10T09:40:47.268Z [info]: New block: 
+2024-09-10T09:40:48.380Z [info]: Processing block 20719385
+2024-09-10T09:40:48.427Z [info]: Block 20719385 saved in database.
+2024-09-10T09:40:58.450Z [info]: New block: 
+2024-09-10T09:40:59.105Z [info]: Processing block 20719386
+2024-09-10T09:40:59.149Z [info]: Block 20719386 saved in database.
+2024-09-10T09:41:11.073Z [info]: New block: 
+2024-09-10T09:41:11.926Z [info]: Processing block 20719387
+2024-09-10T09:41:11.973Z [info]: Block 20719387 saved in database.
+2024-09-10T09:41:23.567Z [info]: New block: 
+2024-09-10T09:41:24.415Z [info]: Processing block 20719388
+2024-09-10T09:41:24.469Z [info]: Block 20719388 saved in database.
+2024-09-10T09:41:35.245Z [info]: New block: 
+2024-09-10T09:41:35.714Z [info]: Processing block 20719389
+2024-09-10T09:41:35.759Z [info]: Block 20719389 saved in database.
+2024-09-10T09:41:36.017Z [error]: Error processing log data: Cannot read properties of undefined (reading 'toString')
+2024-09-10T09:41:46.493Z [info]: New block: 
+2024-09-10T09:41:47.422Z [info]: Processing block 20719390
+2024-09-10T09:41:47.466Z [info]: Block 20719390 saved in database.
+2024-09-10T09:41:58.841Z [info]: New block: 
+2024-09-10T09:41:59.480Z [info]: Processing block 20719391
+2024-09-10T09:41:59.525Z [info]: Block 20719391 saved in database.
+2024-09-10T09:42:10.887Z [info]: New block: 
+2024-09-10T09:42:11.494Z [info]: Processing block 20719392
+2024-09-10T09:42:11.538Z [info]: Block 20719392 saved in database.
+2024-09-10T09:42:23.396Z [info]: New block: 
+2024-09-10T09:42:23.976Z [info]: Processing block 20719393
+2024-09-10T09:42:24.020Z [info]: Block 20719393 saved in database.
+2024-09-10T09:42:35.172Z [info]: New block: 
+2024-09-10T09:42:35.758Z [info]: Processing block 20719394
+2024-09-10T09:42:35.815Z [info]: Block 20719394 saved in database.
+2024-09-10T09:42:48.322Z [info]: New block: 
+2024-09-10T09:42:48.911Z [info]: Processing block 20719395
+2024-09-10T09:42:48.958Z [info]: Block 20719395 saved in database.
+2024-09-10T09:42:58.868Z [info]: New block: 
+2024-09-10T09:42:59.183Z [info]: Processing block 20719396
+2024-09-10T09:42:59.231Z [info]: Block 20719396 saved in database.
+2024-09-10T09:43:11.275Z [info]: New block: 
+2024-09-10T09:43:11.818Z [info]: Processing block 20719397
+2024-09-10T09:43:11.867Z [info]: Block 20719397 saved in database.
+2024-09-10T09:43:22.994Z [info]: New block: 
+2024-09-10T09:43:23.818Z [info]: Processing block 20719398
+2024-09-10T09:43:23.864Z [info]: Block 20719398 saved in database.
+2024-09-10T09:43:35.269Z [info]: New block: 
+2024-09-10T09:43:35.923Z [info]: Processing block 20719399
+2024-09-10T09:43:35.979Z [info]: Block 20719399 saved in database.
+2024-09-10T09:43:47.391Z [info]: New block: 
+2024-09-10T09:43:48.020Z [info]: Processing block 20719400
+2024-09-10T09:43:48.065Z [info]: Block 20719400 saved in database.
+2024-09-10T09:44:01.840Z [info]: Syncing from block 20719391 to 20719401
+2024-09-10T09:44:02.740Z [info]: Block already exists in database.
+2024-09-10T09:44:04.777Z [info]: Syncing from block 20719391 to 20719401
+2024-09-10T09:44:05.330Z [info]: Block already exists in database.
+2024-09-10T09:44:05.687Z [info]: Block already exists in database.
+2024-09-10T09:44:06.013Z [info]: Block already exists in database.
+2024-09-10T09:44:06.333Z [info]: Block already exists in database.
+2024-09-10T09:44:06.647Z [info]: Block already exists in database.
+2024-09-10T09:44:06.964Z [info]: Block already exists in database.
+2024-09-10T09:44:07.296Z [info]: Block already exists in database.
+2024-09-10T09:44:07.610Z [info]: Block already exists in database.
+2024-09-10T09:44:07.922Z [info]: Block already exists in database.
+2024-09-10T09:44:08.235Z [info]: Block already exists in database.
+2024-09-10T09:44:08.547Z [info]: Block already exists in database.
+2024-09-10T09:44:08.547Z [info]: Blocks synced successfully up to 20719401
+2024-09-10T09:44:08.548Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:44:08.552Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:44:11.142Z [info]: New block: 
+2024-09-10T09:44:11.743Z [info]: Processing block 20719402
+2024-09-10T09:44:11.785Z [info]: Block 20719402 saved in database.
+2024-09-10T09:44:22.949Z [info]: New block: 
+2024-09-10T09:44:23.481Z [info]: Processing block 20719403
+2024-09-10T09:44:23.523Z [info]: Block 20719403 saved in database.
+2024-09-10T09:44:34.047Z [info]: New block: 
+2024-09-10T09:44:34.648Z [info]: Processing block 20719404
+2024-09-10T09:44:34.688Z [info]: Block 20719404 saved in database.
+2024-09-10T09:44:48.158Z [info]: New block: 
+2024-09-10T09:44:49.041Z [info]: Processing block 20719405
+2024-09-10T09:44:49.082Z [info]: Block 20719405 saved in database.
+2024-09-10T09:44:59.363Z [info]: New block: 
+2024-09-10T09:44:59.990Z [info]: Processing block 20719406
+2024-09-10T09:45:00.029Z [info]: Block 20719406 saved in database.
+2024-09-10T09:55:33.700Z [info]: Syncing from block 20719448 to 20719458
+2024-09-10T09:55:37.438Z [info]: Blocks synced successfully up to 20719458
+2024-09-10T09:55:37.439Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T09:55:37.443Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T09:55:47.298Z [info]: New block: 
+2024-09-10T09:55:48.372Z [info]: Processing block 20719460
+2024-09-10T09:55:48.420Z [info]: Block 20719460 saved in database.
+2024-09-10T09:55:59.318Z [info]: New block: 
+2024-09-10T09:56:00.098Z [info]: Processing block 20719461
+2024-09-10T09:56:00.133Z [info]: Block 20719461 saved in database.
+2024-09-10T09:56:11.387Z [info]: New block: 
+2024-09-10T09:56:12.944Z [info]: Processing block 20719462
+2024-09-10T09:56:12.981Z [info]: Block 20719462 saved in database.
+2024-09-10T09:56:22.876Z [info]: New block: 
+2024-09-10T09:56:23.449Z [info]: Processing block 20719463
+2024-09-10T09:56:23.483Z [info]: Block 20719463 saved in database.
+2024-09-10T09:56:35.152Z [info]: New block: 
+2024-09-10T09:56:35.267Z [error]: Error processing log data: Cannot read properties of undefined (reading 'Interface')
+2024-09-10T09:56:35.803Z [info]: Processing block 20719464
+2024-09-10T09:56:35.838Z [info]: Block 20719464 saved in database.
+2024-09-10T09:56:47.928Z [info]: New block: 
+2024-09-10T09:56:49.011Z [info]: Processing block 20719465
+2024-09-10T09:56:49.047Z [info]: Block 20719465 saved in database.
+2024-09-10T09:56:59.267Z [info]: New block: 
+2024-09-10T09:57:00.541Z [info]: Processing block 20719466
+2024-09-10T09:57:00.576Z [info]: Block 20719466 saved in database.
+2024-09-10T09:57:11.081Z [info]: New block: 
+2024-09-10T09:57:11.885Z [info]: Processing block 20719467
+2024-09-10T09:57:11.919Z [info]: Block 20719467 saved in database.
+2024-09-10T09:57:23.019Z [info]: New block: 
+2024-09-10T09:57:23.727Z [info]: Processing block 20719468
+2024-09-10T09:57:23.784Z [info]: Block 20719468 saved in database.
+2024-09-10T09:57:35.204Z [info]: New block: 
+2024-09-10T09:57:35.366Z [error]: Error processing log data: Cannot read properties of undefined (reading 'Interface')
+2024-09-10T09:57:35.897Z [info]: Processing block 20719469
+2024-09-10T09:57:35.940Z [info]: Block 20719469 saved in database.
+2024-09-10T09:57:47.126Z [info]: New block: 
+2024-09-10T09:57:47.766Z [info]: Processing block 20719470
+2024-09-10T09:57:47.803Z [info]: Block 20719470 saved in database.
+2024-09-10T09:57:59.430Z [info]: New block: 
+2024-09-10T09:57:59.985Z [info]: Processing block 20719471
+2024-09-10T09:58:00.020Z [info]: Block 20719471 saved in database.
+2024-09-10T09:58:11.370Z [info]: New block: 
+2024-09-10T09:58:12.056Z [info]: Processing block 20719472
+2024-09-10T09:58:12.092Z [info]: Block 20719472 saved in database.
+2024-09-10T09:58:22.600Z [info]: New block: 
+2024-09-10T09:58:23.175Z [info]: Processing block 20719473
+2024-09-10T09:58:23.209Z [info]: Block 20719473 saved in database.
+2024-09-10T09:58:34.747Z [info]: New block: 
+2024-09-10T09:58:34.905Z [error]: Error processing log data: Cannot read properties of undefined (reading 'Interface')
+2024-09-10T09:58:35.457Z [info]: Processing block 20719474
+2024-09-10T09:58:35.492Z [info]: Block 20719474 saved in database.
+2024-09-10T09:58:46.796Z [info]: New block: 
+2024-09-10T09:58:47.361Z [info]: Processing block 20719475
+2024-09-10T09:58:47.399Z [info]: Block 20719475 saved in database.
+2024-09-10T09:59:00.285Z [info]: New block: 
+2024-09-10T09:59:00.889Z [info]: Processing block 20719476
+2024-09-10T09:59:00.937Z [info]: Block 20719476 saved in database.
+2024-09-10T09:59:12.145Z [info]: New block: 
+2024-09-10T09:59:12.700Z [info]: Processing block 20719477
+2024-09-10T09:59:12.738Z [info]: Block 20719477 saved in database.
+2024-09-10T09:59:23.118Z [info]: New block: 
+2024-09-10T09:59:23.701Z [info]: Processing block 20719478
+2024-09-10T09:59:23.736Z [info]: Block 20719478 saved in database.
+2024-09-10T09:59:35.148Z [info]: New block: 
+2024-09-10T09:59:35.952Z [info]: Processing block 20719479
+2024-09-10T09:59:35.994Z [info]: Block 20719479 saved in database.
+2024-09-10T09:59:46.824Z [info]: New block: 
+2024-09-10T09:59:47.644Z [info]: Processing block 20719480
+2024-09-10T09:59:47.685Z [info]: Block 20719480 saved in database.
+2024-09-10T09:59:59.084Z [info]: New block: 
+2024-09-10T09:59:59.728Z [info]: Processing block 20719481
+2024-09-10T09:59:59.765Z [info]: Block 20719481 saved in database.
+2024-09-10T10:00:11.908Z [info]: New block: 
+2024-09-10T10:00:12.577Z [info]: Processing block 20719482
+2024-09-10T10:00:12.611Z [info]: Block 20719482 saved in database.
+2024-09-10T10:00:22.941Z [info]: New block: 
+2024-09-10T10:00:23.520Z [info]: Processing block 20719483
+2024-09-10T10:00:23.555Z [info]: Block 20719483 saved in database.
+2024-09-10T10:00:35.269Z [info]: New block: 
+2024-09-10T10:00:35.432Z [error]: Error processing log data: Cannot read properties of undefined (reading 'Interface')
+2024-09-10T10:00:35.947Z [info]: Processing block 20719484
+2024-09-10T10:00:35.988Z [info]: Block 20719484 saved in database.
+2024-09-10T10:00:47.250Z [info]: New block: 
+2024-09-10T10:00:47.816Z [info]: Processing block 20719485
+2024-09-10T10:00:47.852Z [info]: Block 20719485 saved in database.
+2024-09-10T10:00:56.457Z [info]: Syncing from block 20719475 to 20719485
+2024-09-10T10:00:56.778Z [info]: Block already exists in database.
+2024-09-10T10:00:57.076Z [info]: Block already exists in database.
+2024-09-10T10:00:57.375Z [info]: Block already exists in database.
+2024-09-10T10:00:57.704Z [info]: Block already exists in database.
+2024-09-10T10:00:58.009Z [info]: Block already exists in database.
+2024-09-10T10:00:58.319Z [info]: Block already exists in database.
+2024-09-10T10:00:58.633Z [info]: Block already exists in database.
+2024-09-10T10:00:58.941Z [info]: Block already exists in database.
+2024-09-10T10:00:59.243Z [info]: Block already exists in database.
+2024-09-10T10:00:59.540Z [info]: Block already exists in database.
+2024-09-10T10:00:59.843Z [info]: Block already exists in database.
+2024-09-10T10:00:59.844Z [info]: Blocks synced successfully up to 20719485
+2024-09-10T10:00:59.845Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T10:00:59.848Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T10:01:11.637Z [info]: New block: 
+2024-09-10T10:01:12.551Z [info]: Processing block 20719487
+2024-09-10T10:01:12.587Z [info]: Block 20719487 saved in database.
+2024-09-10T10:01:22.465Z [info]: New block: 
+2024-09-10T10:01:23.106Z [info]: Processing block 20719488
+2024-09-10T10:01:23.140Z [info]: Block 20719488 saved in database.
+2024-09-10T10:01:35.426Z [info]: New block: 
+2024-09-10T10:01:35.575Z [error]: Error processing log data: Cannot read properties of undefined (reading 'Interface')
+2024-09-10T10:01:36.137Z [info]: Processing block 20719489
+2024-09-10T10:01:36.175Z [info]: Block 20719489 saved in database.
+2024-09-10T10:01:47.754Z [info]: Syncing from block 20719480 to 20719490
+2024-09-10T10:01:48.567Z [info]: Block already exists in database.
+2024-09-10T10:01:48.866Z [info]: Block already exists in database.
+2024-09-10T10:01:49.162Z [info]: Block already exists in database.
+2024-09-10T10:01:49.775Z [info]: Block already exists in database.
+2024-09-10T10:01:50.077Z [info]: Block already exists in database.
+2024-09-10T10:01:50.371Z [info]: Block already exists in database.
+2024-09-10T10:01:50.681Z [info]: Block already exists in database.
+2024-09-10T10:01:50.971Z [info]: Block already exists in database.
+2024-09-10T10:01:51.276Z [info]: Block already exists in database.
+2024-09-10T10:01:51.277Z [info]: Blocks synced successfully up to 20719490
+2024-09-10T10:01:51.277Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T10:01:51.281Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T10:01:59.461Z [info]: Syncing from block 20719480 to 20719490
+2024-09-10T10:02:00.016Z [info]: Block already exists in database.
+2024-09-10T10:02:00.338Z [info]: Block already exists in database.
+2024-09-10T10:02:00.661Z [info]: Block already exists in database.
+2024-09-10T10:02:00.996Z [info]: Block already exists in database.
+2024-09-10T10:02:01.313Z [info]: Block already exists in database.
+2024-09-10T10:02:01.624Z [info]: Block already exists in database.
+2024-09-10T10:02:01.947Z [info]: Block already exists in database.
+2024-09-10T10:02:02.269Z [info]: Block already exists in database.
+2024-09-10T10:02:02.609Z [info]: Block already exists in database.
+2024-09-10T10:02:02.912Z [info]: Block already exists in database.
+2024-09-10T10:02:03.231Z [info]: Block already exists in database.
+2024-09-10T10:02:03.232Z [info]: Blocks synced successfully up to 20719490
+2024-09-10T10:02:03.233Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T10:02:03.236Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T10:02:11.313Z [info]: New block: 
+2024-09-10T10:02:12.422Z [info]: Processing block 20719492
+2024-09-10T10:02:12.462Z [info]: Block 20719492 saved in database.
+2024-09-10T10:02:26.176Z [info]: Syncing from block 20719483 to 20719493
+2024-09-10T10:02:27.014Z [info]: Block already exists in database.
+2024-09-10T10:02:27.631Z [info]: Block already exists in database.
+2024-09-10T10:02:27.951Z [info]: Block already exists in database.
+2024-09-10T10:02:28.268Z [info]: Block already exists in database.
+2024-09-10T10:02:28.573Z [info]: Block already exists in database.
+2024-09-10T10:02:28.886Z [info]: Block already exists in database.
+2024-09-10T10:02:29.185Z [info]: Block already exists in database.
+2024-09-10T10:02:29.481Z [info]: Block already exists in database.
+2024-09-10T10:02:29.791Z [info]: Block already exists in database.
+2024-09-10T10:02:29.791Z [info]: Blocks synced successfully up to 20719493
+2024-09-10T10:02:29.792Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T10:02:29.796Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T10:02:35.753Z [info]: New block: 
+2024-09-10T10:02:36.549Z [info]: Processing block 20719494
+2024-09-10T10:02:36.584Z [info]: Block 20719494 saved in database.
+2024-09-10T10:02:36.810Z [error]: Error processing log data: eventObject is not defined
+2024-09-10T10:02:46.845Z [info]: New block: 
+2024-09-10T10:02:47.491Z [info]: Processing block 20719495
+2024-09-10T10:02:47.526Z [info]: Block 20719495 saved in database.
+2024-09-10T10:02:59.126Z [info]: New block: 
+2024-09-10T10:02:59.649Z [info]: Processing block 20719496
+2024-09-10T10:02:59.688Z [info]: Block 20719496 saved in database.
+2024-09-10T10:03:11.309Z [info]: Syncing from block 20719487 to 20719497
+2024-09-10T10:03:11.943Z [info]: Block already exists in database.
+2024-09-10T10:03:12.234Z [info]: Block already exists in database.
+2024-09-10T10:03:12.523Z [info]: Block already exists in database.
+2024-09-10T10:03:12.831Z [info]: Block already exists in database.
+2024-09-10T10:03:13.122Z [info]: Block already exists in database.
+2024-09-10T10:03:13.420Z [info]: Block already exists in database.
+2024-09-10T10:03:15.668Z [info]: Syncing from block 20719487 to 20719497
+2024-09-10T10:03:16.037Z [info]: Block already exists in database.
+2024-09-10T10:03:16.351Z [info]: Block already exists in database.
+2024-09-10T10:03:16.682Z [info]: Block already exists in database.
+2024-09-10T10:03:16.987Z [info]: Block already exists in database.
+2024-09-10T10:03:17.296Z [info]: Block already exists in database.
+2024-09-10T10:03:17.619Z [info]: Block already exists in database.
+2024-09-10T10:03:17.941Z [info]: Block already exists in database.
+2024-09-10T10:03:18.259Z [info]: Block already exists in database.
+2024-09-10T10:03:18.654Z [info]: Block already exists in database.
+2024-09-10T10:03:18.981Z [info]: Block already exists in database.
+2024-09-10T10:03:19.307Z [info]: Block already exists in database.
+2024-09-10T10:03:19.308Z [info]: Blocks synced successfully up to 20719497
+2024-09-10T10:03:19.308Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T10:03:19.314Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T10:03:23.316Z [info]: New block: 
+2024-09-10T10:03:24.127Z [info]: Processing block 20719498
+2024-09-10T10:03:24.165Z [info]: Block 20719498 saved in database.
+2024-09-10T10:03:35.378Z [info]: New block: 
+2024-09-10T10:03:36.147Z [info]: Processing block 20719499
+2024-09-10T10:03:36.186Z [info]: Block 20719499 saved in database.
+2024-09-10T10:03:36.474Z [info]: New deposit saved to database:
+2024-09-10T10:03:46.845Z [info]: New block: 
+2024-09-10T10:03:47.456Z [info]: Processing block 20719500
+2024-09-10T10:03:47.524Z [info]: Block 20719500 saved in database.
+2024-09-10T10:03:59.180Z [info]: New block: 
+2024-09-10T10:03:59.593Z [info]: Processing block 20719501
+2024-09-10T10:03:59.641Z [info]: Block 20719501 saved in database.
+2024-09-10T10:04:11.347Z [info]: New block: 
+2024-09-10T10:04:11.825Z [info]: Processing block 20719502
+2024-09-10T10:04:11.859Z [info]: Block 20719502 saved in database.
+2024-09-10T10:04:23.160Z [info]: New block: 
+2024-09-10T10:04:23.923Z [info]: Processing block 20719503
+2024-09-10T10:04:23.958Z [info]: Block 20719503 saved in database.
+2024-09-10T10:17:59.211Z [info]: Syncing from block 20719560 to 20719570
+2024-09-10T10:18:02.508Z [info]: Blocks synced successfully up to 20719570
+2024-09-10T10:18:02.510Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T10:18:02.513Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T10:18:09.619Z [info]: Fetching deposits from block 20718571 to 20719571
+2024-09-10T10:18:11.453Z [info]: New deposit saved to database:
+2024-09-10T10:18:12.116Z [info]: New deposit saved to database:
+2024-09-10T10:18:12.787Z [info]: New deposit saved to database:
+2024-09-10T10:18:13.455Z [info]: New deposit saved to database:
+2024-09-10T10:18:14.121Z [info]: New deposit saved to database:
+2024-09-10T10:18:14.802Z [info]: New deposit saved to database:
+2024-09-10T10:18:15.478Z [info]: New deposit saved to database:
+2024-09-10T10:18:16.398Z [info]: New deposit saved to database:
+2024-09-10T10:18:17.088Z [info]: New deposit saved to database:
+2024-09-10T10:18:17.758Z [info]: New deposit saved to database:
+2024-09-10T10:18:18.411Z [info]: New deposit saved to database:
+2024-09-10T10:18:19.077Z [info]: New deposit saved to database:
+2024-09-10T10:18:19.771Z [info]: New deposit saved to database:
+2024-09-10T10:18:20.621Z [info]: New deposit saved to database:
+2024-09-10T10:18:21.415Z [info]: New deposit saved to database:
+2024-09-10T10:18:22.093Z [info]: New deposit saved to database:
+2024-09-10T10:18:22.849Z [info]: New deposit saved to database:
+2024-09-10T10:18:23.728Z [info]: New deposit saved to database:
+2024-09-10T10:18:24.419Z [info]: New deposit saved to database:
+2024-09-10T10:18:25.110Z [info]: New deposit saved to database:
+2024-09-10T10:18:25.804Z [info]: New deposit saved to database:
+2024-09-10T10:18:26.508Z [info]: New deposit saved to database:
+2024-09-10T10:18:27.167Z [info]: New deposit saved to database:
+2024-09-10T10:18:27.823Z [info]: New deposit saved to database:
+2024-09-10T10:18:28.492Z [info]: New deposit saved to database:
+2024-09-10T10:18:29.193Z [info]: New deposit saved to database:
+2024-09-10T10:18:29.865Z [info]: New deposit saved to database:
+2024-09-10T10:18:30.558Z [info]: New deposit saved to database:
+2024-09-10T10:18:31.230Z [info]: New deposit saved to database:
+2024-09-10T10:18:31.934Z [info]: New deposit saved to database:
+2024-09-10T10:18:32.616Z [info]: New deposit saved to database:
+2024-09-10T10:18:33.290Z [info]: New deposit saved to database:
+2024-09-10T10:18:33.959Z [info]: New deposit saved to database:
+2024-09-10T10:18:34.623Z [info]: New deposit saved to database:
+2024-09-10T10:18:35.295Z [info]: New deposit saved to database:
+2024-09-10T10:18:36.004Z [info]: New deposit saved to database:
+2024-09-10T10:18:36.684Z [info]: New deposit saved to database:
+2024-09-10T10:18:37.367Z [info]: New deposit saved to database:
+2024-09-10T10:18:38.047Z [info]: New deposit saved to database:
+2024-09-10T10:18:38.736Z [info]: New deposit saved to database:
+2024-09-10T10:18:39.428Z [info]: New deposit saved to database:
+2024-09-10T10:18:40.122Z [info]: New deposit saved to database:
+2024-09-10T10:18:40.817Z [info]: New deposit saved to database:
+2024-09-10T10:18:41.518Z [info]: New deposit saved to database:
+2024-09-10T10:18:42.192Z [info]: New deposit saved to database:
+2024-09-10T10:18:42.869Z [info]: New deposit saved to database:
+2024-09-10T10:18:43.557Z [info]: New deposit saved to database:
+2024-09-10T10:18:44.251Z [info]: New deposit saved to database:
+2024-09-10T10:18:44.912Z [info]: New deposit saved to database:
+2024-09-10T10:18:45.601Z [info]: New deposit saved to database:
+2024-09-10T10:18:46.282Z [info]: New deposit saved to database:
+2024-09-10T10:18:46.948Z [info]: New deposit saved to database:
+2024-09-10T10:18:47.632Z [info]: New deposit saved to database:
+2024-09-10T10:18:48.298Z [info]: New deposit saved to database:
+2024-09-10T10:18:48.971Z [info]: New deposit saved to database:
+2024-09-10T10:18:49.643Z [info]: New deposit saved to database:
+2024-09-10T10:18:50.322Z [info]: New deposit saved to database:
+2024-09-10T10:18:50.992Z [info]: New deposit saved to database:
+2024-09-10T10:18:51.655Z [info]: New deposit saved to database:
+2024-09-10T10:18:52.318Z [info]: New deposit saved to database:
+2024-09-10T10:18:52.988Z [info]: New deposit saved to database:
+2024-09-10T10:18:53.655Z [info]: New deposit saved to database:
+2024-09-10T10:18:54.319Z [info]: New deposit saved to database:
+2024-09-10T10:18:55.002Z [info]: New deposit saved to database:
+2024-09-10T10:18:55.684Z [info]: New deposit saved to database:
+2024-09-10T10:18:56.332Z [info]: New deposit saved to database:
+2024-09-10T10:18:57.140Z [info]: New deposit saved to database:
+2024-09-10T10:18:57.796Z [info]: New deposit saved to database:
+2024-09-10T10:18:58.471Z [info]: New deposit saved to database:
+2024-09-10T10:18:59.171Z [info]: New deposit saved to database:
+2024-09-10T10:18:59.838Z [info]: New deposit saved to database:
+2024-09-10T10:19:00.526Z [info]: New deposit saved to database:
+2024-09-10T10:19:01.194Z [info]: New deposit saved to database:
+2024-09-10T10:19:01.865Z [info]: New deposit saved to database:
+2024-09-10T10:19:02.537Z [info]: New deposit saved to database:
+2024-09-10T10:19:03.218Z [info]: New deposit saved to database:
+2024-09-10T10:19:03.920Z [info]: New deposit saved to database:
+2024-09-10T10:19:04.580Z [info]: New deposit saved to database:
+2024-09-10T10:19:05.249Z [info]: New deposit saved to database:
+2024-09-10T10:19:05.934Z [info]: New deposit saved to database:
+2024-09-10T10:19:06.621Z [info]: New deposit saved to database:
+2024-09-10T10:19:07.279Z [info]: New deposit saved to database:
+2024-09-10T10:19:07.965Z [info]: New deposit saved to database:
+2024-09-10T10:19:08.646Z [info]: New deposit saved to database:
+2024-09-10T10:19:09.300Z [info]: New deposit saved to database:
+2024-09-10T10:19:09.960Z [info]: New deposit saved to database:
+2024-09-10T10:19:10.649Z [info]: New deposit saved to database:
+2024-09-10T10:19:11.313Z [info]: New deposit saved to database:
+2024-09-10T10:19:11.989Z [info]: New deposit saved to database:
+2024-09-10T10:19:12.689Z [info]: New deposit saved to database:
+2024-09-10T10:19:13.357Z [info]: New deposit saved to database:
+2024-09-10T10:19:14.026Z [info]: New deposit saved to database:
+2024-09-10T10:19:14.695Z [info]: New deposit saved to database:
+2024-09-10T10:19:15.357Z [info]: New deposit saved to database:
+2024-09-10T10:19:16.016Z [info]: New deposit saved to database:
+2024-09-10T10:19:16.697Z [info]: New deposit saved to database:
+2024-09-10T10:19:17.368Z [info]: New deposit saved to database:
+2024-09-10T10:19:18.023Z [info]: New deposit saved to database:
+2024-09-10T10:19:18.691Z [info]: New deposit saved to database:
+2024-09-10T10:19:19.340Z [info]: New deposit saved to database:
+2024-09-10T10:19:19.998Z [info]: New deposit saved to database:
+2024-09-10T10:19:20.684Z [info]: New deposit saved to database:
+2024-09-10T10:19:21.347Z [info]: New deposit saved to database:
+2024-09-10T10:19:21.991Z [info]: New deposit saved to database:
+2024-09-10T10:19:22.699Z [info]: New deposit saved to database:
+2024-09-10T10:19:23.400Z [info]: New deposit saved to database:
+2024-09-10T10:19:24.064Z [info]: New deposit saved to database:
+2024-09-10T10:19:24.741Z [info]: New deposit saved to database:
+2024-09-10T10:19:25.409Z [info]: New deposit saved to database:
+2024-09-10T10:19:26.100Z [info]: New deposit saved to database:
+2024-09-10T10:19:26.789Z [info]: New deposit saved to database:
+2024-09-10T10:19:27.473Z [info]: New deposit saved to database:
+2024-09-10T10:19:28.158Z [info]: New deposit saved to database:
+2024-09-10T10:19:28.852Z [info]: New deposit saved to database:
+2024-09-10T10:19:29.520Z [info]: New deposit saved to database:
+2024-09-10T10:19:30.185Z [info]: New deposit saved to database:
+2024-09-10T10:19:30.889Z [info]: New deposit saved to database:
+2024-09-10T10:19:31.568Z [info]: New deposit saved to database:
+2024-09-10T10:19:32.244Z [info]: New deposit saved to database:
+2024-09-10T10:19:32.903Z [info]: New deposit saved to database:
+2024-09-10T10:19:33.579Z [info]: New deposit saved to database:
+2024-09-10T10:19:34.242Z [info]: New deposit saved to database:
+2024-09-10T10:19:34.915Z [info]: New deposit saved to database:
+2024-09-10T10:19:35.588Z [info]: New deposit saved to database:
+2024-09-10T10:19:36.265Z [info]: New deposit saved to database:
+2024-09-10T10:19:36.944Z [info]: New deposit saved to database:
+2024-09-10T10:19:37.655Z [info]: New deposit saved to database:
+2024-09-10T10:19:38.303Z [info]: New deposit saved to database:
+2024-09-10T10:19:38.998Z [info]: New deposit saved to database:
+2024-09-10T10:19:39.671Z [info]: New deposit saved to database:
+2024-09-10T10:19:40.356Z [info]: New deposit saved to database:
+2024-09-10T10:19:41.058Z [info]: New deposit saved to database:
+2024-09-10T10:19:41.754Z [info]: New deposit saved to database:
+2024-09-10T10:19:42.781Z [info]: New deposit saved to database:
+2024-09-10T10:19:43.475Z [info]: New deposit saved to database:
+2024-09-10T10:19:44.157Z [info]: New deposit saved to database:
+2024-09-10T10:19:45.058Z [info]: New deposit saved to database:
+2024-09-10T10:19:45.727Z [info]: New deposit saved to database:
+2024-09-10T10:19:46.813Z [info]: New deposit saved to database:
+2024-09-10T10:19:47.506Z [info]: New deposit saved to database:
+2024-09-10T10:19:48.173Z [info]: New deposit saved to database:
+2024-09-10T10:19:48.851Z [info]: New deposit saved to database:
+2024-09-10T10:19:49.525Z [info]: New deposit saved to database:
+2024-09-10T10:19:50.205Z [info]: New deposit saved to database:
+2024-09-10T10:19:50.312Z [info]: All previous deposits fetched and saved.
+2024-09-10T10:19:50.313Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T10:19:50.314Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T10:20:12.157Z [info]: New deposit saved to database:
+2024-09-10T10:20:22.318Z [info]: Fetching deposits from block 20719532 to 20719582
+2024-09-10T10:20:23.350Z [info]: New deposit saved to database:
+2024-09-10T10:20:24.014Z [info]: New deposit saved to database:
+2024-09-10T10:20:24.668Z [info]: New deposit saved to database:
+2024-09-10T10:20:25.322Z [info]: New deposit saved to database:
+2024-09-10T10:20:25.972Z [info]: New deposit saved to database:
+2024-09-10T10:20:26.634Z [info]: New deposit saved to database:
+2024-09-10T10:20:27.302Z [info]: New deposit saved to database:
+2024-09-10T10:20:27.953Z [info]: New deposit saved to database:
+2024-09-10T10:20:28.625Z [info]: New deposit saved to database:
+2024-09-10T10:20:29.286Z [info]: New deposit saved to database:
+2024-09-10T10:20:29.929Z [info]: New deposit saved to database:
+2024-09-10T10:20:30.579Z [info]: New deposit saved to database:
+2024-09-10T10:20:30.684Z [info]: All previous deposits fetched and saved.
+2024-09-10T10:20:30.685Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T10:20:30.687Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T10:20:35.872Z [info]: New deposit saved to database:
+2024-09-10T10:21:36.241Z [info]: New deposit saved to database:
+2024-09-10T10:22:35.635Z [info]: New deposit saved to database:
+2024-09-10T10:23:36.254Z [info]: New deposit saved to database:
+2024-09-10T10:24:36.145Z [info]: New deposit saved to database:
+2024-09-10T10:57:45.935Z [info]: Fetching deposits from block 20719719 to 20719769
+2024-09-10T10:57:46.197Z [info]: All previous deposits fetched and saved.
+2024-09-10T10:57:46.198Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T10:57:46.199Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T10:57:47.453Z [info]: New block: 
+2024-09-10T10:57:48.665Z [info]: Processing block 20719770
+2024-09-10T10:57:48.709Z [info]: Block 20719770 saved in database.
+2024-09-10T10:57:58.933Z [info]: New block: 
+2024-09-10T10:57:59.552Z [info]: Processing block 20719771
+2024-09-10T10:57:59.588Z [info]: Block 20719771 saved in database.
+2024-09-10T10:58:10.710Z [info]: New block: 
+2024-09-10T10:58:11.062Z [info]: Processing block 20719772
+2024-09-10T10:58:11.098Z [info]: Block 20719772 saved in database.
+2024-09-10T10:58:23.050Z [info]: New block: 
+2024-09-10T10:58:23.926Z [info]: Processing block 20719773
+2024-09-10T10:58:23.962Z [info]: Block 20719773 saved in database.
+2024-09-10T10:58:36.078Z [info]: New block: 
+2024-09-10T10:58:36.829Z [info]: Processing block 20719774
+2024-09-10T10:58:36.866Z [info]: Block 20719774 saved in database.
+2024-09-10T10:58:47.307Z [info]: New block: 
+2024-09-10T10:58:47.851Z [info]: Processing block 20719775
+2024-09-10T10:58:47.886Z [info]: Block 20719775 saved in database.
+2024-09-10T10:58:59.214Z [info]: New block: 
+2024-09-10T10:58:59.744Z [info]: Processing block 20719776
+2024-09-10T10:58:59.780Z [info]: Block 20719776 saved in database.
+2024-09-10T10:59:11.534Z [info]: New block: 
+2024-09-10T10:59:12.130Z [info]: Processing block 20719777
+2024-09-10T10:59:12.179Z [info]: Block 20719777 saved in database.
+2024-09-10T10:59:23.186Z [info]: New block: 
+2024-09-10T10:59:23.565Z [info]: Processing block 20719778
+2024-09-10T10:59:23.601Z [info]: Block 20719778 saved in database.
+2024-09-10T10:59:36.353Z [info]: New block: 
+2024-09-10T10:59:37.454Z [info]: Processing block 20719779
+2024-09-10T10:59:37.489Z [info]: Block 20719779 saved in database.
+2024-09-10T10:59:47.528Z [info]: New block: 
+2024-09-10T10:59:48.088Z [info]: Processing block 20719780
+2024-09-10T10:59:48.130Z [info]: Block 20719780 saved in database.
+2024-09-10T11:00:00.030Z [info]: New block: 
+2024-09-10T11:00:00.673Z [info]: Processing block 20719781
+2024-09-10T11:00:00.709Z [info]: Block 20719781 saved in database.
+2024-09-10T11:00:11.080Z [info]: New block: 
+2024-09-10T11:00:11.653Z [info]: Processing block 20719782
+2024-09-10T11:00:11.687Z [info]: Block 20719782 saved in database.
+2024-09-10T11:00:23.354Z [info]: New block: 
+2024-09-10T11:00:23.928Z [info]: Processing block 20719783
+2024-09-10T11:00:23.965Z [info]: Block 20719783 saved in database.
+2024-09-10T11:00:36.483Z [info]: New block: 
+2024-09-10T11:00:37.086Z [info]: Processing block 20719784
+2024-09-10T11:00:37.120Z [info]: Block 20719784 saved in database.
+2024-09-10T11:00:48.418Z [info]: New block: 
+2024-09-10T11:00:49.027Z [info]: Processing block 20719785
+2024-09-10T11:00:49.061Z [info]: Block 20719785 saved in database.
+2024-09-10T11:00:58.918Z [info]: New block: 
+2024-09-10T11:00:59.460Z [info]: Processing block 20719786
+2024-09-10T11:00:59.499Z [info]: Block 20719786 saved in database.
+2024-09-10T11:01:11.586Z [info]: New block: 
+2024-09-10T11:01:12.137Z [info]: Processing block 20719787
+2024-09-10T11:01:12.181Z [info]: Block 20719787 saved in database.
+2024-09-10T11:01:23.178Z [info]: New block: 
+2024-09-10T11:01:23.771Z [info]: Processing block 20719788
+2024-09-10T11:01:23.806Z [info]: Block 20719788 saved in database.
+2024-09-10T11:01:35.012Z [info]: New block: 
+2024-09-10T11:01:35.824Z [info]: Processing block 20719789
+2024-09-10T11:01:35.860Z [info]: Block 20719789 saved in database.
+2024-09-10T11:01:47.217Z [info]: New block: 
+2024-09-10T11:01:47.681Z [info]: Processing block 20719790
+2024-09-10T11:01:47.720Z [info]: Block 20719790 saved in database.
+2024-09-10T11:02:00.046Z [info]: New block: 
+2024-09-10T11:02:00.792Z [info]: Processing block 20719791
+2024-09-10T11:02:00.834Z [info]: Block 20719791 saved in database.
+2024-09-10T11:02:13.166Z [info]: New block: 
+2024-09-10T11:02:13.721Z [info]: Processing block 20719792
+2024-09-10T11:02:13.755Z [info]: Block 20719792 saved in database.
+2024-09-10T11:02:23.123Z [info]: New block: 
+2024-09-10T11:02:23.486Z [info]: Processing block 20719793
+2024-09-10T11:02:23.537Z [info]: Block 20719793 saved in database.
+2024-09-10T11:02:35.062Z [info]: New block: 
+2024-09-10T11:02:35.742Z [info]: Processing block 20719794
+2024-09-10T11:02:35.778Z [info]: Block 20719794 saved in database.
+2024-09-10T11:02:47.335Z [info]: New block: 
+2024-09-10T11:02:47.924Z [info]: Processing block 20719795
+2024-09-10T11:02:47.963Z [info]: Block 20719795 saved in database.
+2024-09-10T11:02:59.079Z [info]: New block: 
+2024-09-10T11:02:59.621Z [info]: Processing block 20719796
+2024-09-10T11:02:59.656Z [info]: Block 20719796 saved in database.
+2024-09-10T11:03:10.931Z [info]: New block: 
+2024-09-10T11:03:11.419Z [info]: Processing block 20719797
+2024-09-10T11:03:11.455Z [info]: Block 20719797 saved in database.
+2024-09-10T11:03:24.635Z [info]: New block: 
+2024-09-10T11:03:25.637Z [info]: Processing block 20719798
+2024-09-10T11:03:25.671Z [info]: Block 20719798 saved in database.
+2024-09-10T11:03:35.471Z [info]: New block: 
+2024-09-10T11:03:36.115Z [info]: Processing block 20719799
+2024-09-10T11:03:36.151Z [info]: Block 20719799 saved in database.
+2024-09-10T11:03:47.154Z [info]: New block: 
+2024-09-10T11:03:47.595Z [info]: Processing block 20719800
+2024-09-10T11:03:47.628Z [info]: Block 20719800 saved in database.
+2024-09-10T11:03:59.125Z [info]: New block: 
+2024-09-10T11:03:59.898Z [info]: Processing block 20719801
+2024-09-10T11:03:59.933Z [info]: Block 20719801 saved in database.
+2024-09-10T11:04:11.182Z [info]: New block: 
+2024-09-10T11:04:11.634Z [info]: Processing block 20719802
+2024-09-10T11:04:11.675Z [info]: Block 20719802 saved in database.
+2024-09-10T11:04:24.396Z [info]: New block: 
+2024-09-10T11:04:24.972Z [info]: Processing block 20719803
+2024-09-10T11:04:25.006Z [info]: Block 20719803 saved in database.
+2024-09-10T11:04:35.068Z [info]: New block: 
+2024-09-10T11:04:35.579Z [info]: Processing block 20719804
+2024-09-10T11:04:35.631Z [info]: Block 20719804 saved in database.
+2024-09-10T11:04:47.014Z [info]: New block: 
+2024-09-10T11:04:47.633Z [info]: Processing block 20719805
+2024-09-10T11:04:47.671Z [info]: Block 20719805 saved in database.
+2024-09-10T11:04:59.472Z [info]: New block: 
+2024-09-10T11:05:00.138Z [info]: Processing block 20719806
+2024-09-10T11:05:00.308Z [info]: Block 20719806 saved in database.
+2024-09-10T11:05:31.822Z [info]: Fetching deposits from block 20719758 to 20719808
+2024-09-10T11:05:32.079Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:05:32.080Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:05:32.081Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:05:35.780Z [info]: New block: 
+2024-09-10T11:05:37.362Z [info]: Processing block 20719809
+2024-09-10T11:05:37.408Z [info]: Block 20719809 saved in database.
+2024-09-10T11:05:47.275Z [info]: New block: 
+2024-09-10T11:05:47.983Z [info]: Processing block 20719810
+2024-09-10T11:05:48.018Z [info]: Block 20719810 saved in database.
+2024-09-10T11:06:00.193Z [info]: New block: 
+2024-09-10T11:06:00.731Z [info]: Processing block 20719811
+2024-09-10T11:06:00.765Z [info]: Block 20719811 saved in database.
+2024-09-10T11:06:11.222Z [info]: New block: 
+2024-09-10T11:06:11.943Z [info]: Processing block 20719812
+2024-09-10T11:06:11.978Z [info]: Block 20719812 saved in database.
+2024-09-10T11:06:23.209Z [info]: New block: 
+2024-09-10T11:06:23.758Z [info]: Processing block 20719813
+2024-09-10T11:06:23.792Z [info]: Block 20719813 saved in database.
+2024-09-10T11:06:35.411Z [info]: New block: 
+2024-09-10T11:06:35.953Z [info]: Processing block 20719814
+2024-09-10T11:06:35.989Z [info]: Block 20719814 saved in database.
+2024-09-10T11:06:48.007Z [info]: New block: 
+2024-09-10T11:06:48.510Z [info]: Processing block 20719815
+2024-09-10T11:06:48.545Z [info]: Block 20719815 saved in database.
+2024-09-10T11:07:00.100Z [info]: New block: 
+2024-09-10T11:07:00.709Z [info]: Processing block 20719816
+2024-09-10T11:07:00.743Z [info]: Block 20719816 saved in database.
+2024-09-10T11:07:10.666Z [info]: New block: 
+2024-09-10T11:07:11.126Z [info]: Processing block 20719817
+2024-09-10T11:07:11.162Z [info]: Block 20719817 saved in database.
+2024-09-10T11:07:23.154Z [info]: New block: 
+2024-09-10T11:07:23.636Z [info]: Processing block 20719818
+2024-09-10T11:07:23.671Z [info]: Block 20719818 saved in database.
+2024-09-10T11:07:35.374Z [info]: New block: 
+2024-09-10T11:07:35.899Z [info]: Processing block 20719819
+2024-09-10T11:07:35.940Z [info]: Block 20719819 saved in database.
+2024-09-10T11:07:59.811Z [info]: New block: 
+2024-09-10T11:08:00.599Z [info]: Processing block 20719820
+2024-09-10T11:08:00.635Z [info]: Block 20719820 saved in database.
+2024-09-10T11:08:11.227Z [info]: New block: 
+2024-09-10T11:08:11.725Z [info]: Processing block 20719821
+2024-09-10T11:08:11.760Z [info]: Block 20719821 saved in database.
+2024-09-10T11:08:23.631Z [info]: New block: 
+2024-09-10T11:08:24.212Z [info]: Processing block 20719822
+2024-09-10T11:08:24.246Z [info]: Block 20719822 saved in database.
+2024-09-10T11:09:18.613Z [info]: Fetching deposits from block 20719776 to 20719826
+2024-09-10T11:09:18.876Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:09:18.877Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:09:18.878Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:11:34.326Z [info]: Fetching deposits from block 20719787 to 20719837
+2024-09-10T11:11:34.583Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:11:34.584Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:11:34.585Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:11:35.305Z [info]: New block: 
+2024-09-10T11:11:36.415Z [info]: Processing block 20719838
+2024-09-10T11:11:36.462Z [info]: Block 20719838 saved in database.
+2024-09-10T11:11:46.915Z [info]: New block: 
+2024-09-10T11:11:47.828Z [info]: Processing block 20719839
+2024-09-10T11:11:47.867Z [info]: Block 20719839 saved in database.
+2024-09-10T11:11:59.223Z [info]: New block: 
+2024-09-10T11:11:59.851Z [info]: Processing block 20719840
+2024-09-10T11:11:59.891Z [info]: Block 20719840 saved in database.
+2024-09-10T11:12:11.816Z [info]: New block: 
+2024-09-10T11:12:12.432Z [info]: Processing block 20719841
+2024-09-10T11:12:12.468Z [info]: Block 20719841 saved in database.
+2024-09-10T11:12:23.256Z [info]: New block: 
+2024-09-10T11:12:23.985Z [info]: Processing block 20719842
+2024-09-10T11:12:24.020Z [info]: Block 20719842 saved in database.
+2024-09-10T11:12:35.263Z [info]: New block: 
+2024-09-10T11:12:35.811Z [info]: Processing block 20719843
+2024-09-10T11:12:35.846Z [info]: Block 20719843 saved in database.
+2024-09-10T11:12:48.335Z [info]: New block: 
+2024-09-10T11:12:48.878Z [info]: Processing block 20719844
+2024-09-10T11:12:48.913Z [info]: Block 20719844 saved in database.
+2024-09-10T11:12:59.139Z [info]: New block: 
+2024-09-10T11:12:59.562Z [info]: Processing block 20719845
+2024-09-10T11:12:59.601Z [info]: Block 20719845 saved in database.
+2024-09-10T11:13:11.749Z [info]: New block: 
+2024-09-10T11:13:12.391Z [info]: Processing block 20719846
+2024-09-10T11:13:12.446Z [info]: Block 20719846 saved in database.
+2024-09-10T11:13:23.407Z [info]: New block: 
+2024-09-10T11:13:23.972Z [info]: Processing block 20719847
+2024-09-10T11:13:24.034Z [info]: Block 20719847 saved in database.
+2024-09-10T11:13:35.153Z [info]: New block: 
+2024-09-10T11:13:35.720Z [info]: Processing block 20719848
+2024-09-10T11:13:35.761Z [info]: Block 20719848 saved in database.
+2024-09-10T11:13:47.746Z [info]: New block: 
+2024-09-10T11:13:48.280Z [info]: Processing block 20719849
+2024-09-10T11:13:48.315Z [info]: Block 20719849 saved in database.
+2024-09-10T11:13:59.864Z [info]: New block: 
+2024-09-10T11:14:00.444Z [info]: Processing block 20719850
+2024-09-10T11:14:00.484Z [info]: Block 20719850 saved in database.
+2024-09-10T11:14:11.348Z [info]: New block: 
+2024-09-10T11:14:11.876Z [info]: Processing block 20719851
+2024-09-10T11:14:11.910Z [info]: Block 20719851 saved in database.
+2024-09-10T11:14:23.386Z [info]: New block: 
+2024-09-10T11:14:23.867Z [info]: Processing block 20719852
+2024-09-10T11:14:23.900Z [info]: Block 20719852 saved in database.
+2024-09-10T11:14:38.303Z [info]: Fetching deposits from block 20719803 to 20719853
+2024-09-10T11:14:38.547Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:14:38.548Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:14:38.550Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:14:47.012Z [info]: New block: 
+2024-09-10T11:14:48.219Z [info]: Processing block 20719854
+2024-09-10T11:14:48.263Z [info]: Block 20719854 saved in database.
+2024-09-10T11:14:59.777Z [info]: New block: 
+2024-09-10T11:15:00.549Z [info]: Processing block 20719855
+2024-09-10T11:15:00.586Z [info]: Block 20719855 saved in database.
+2024-09-10T11:15:11.627Z [info]: New block: 
+2024-09-10T11:15:12.246Z [info]: Processing block 20719856
+2024-09-10T11:15:12.282Z [info]: Block 20719856 saved in database.
+2024-09-10T11:15:23.058Z [info]: New block: 
+2024-09-10T11:15:23.716Z [info]: Processing block 20719857
+2024-09-10T11:15:23.751Z [info]: Block 20719857 saved in database.
+2024-09-10T11:15:35.440Z [info]: New block: 
+2024-09-10T11:15:36.211Z [info]: Processing block 20719858
+2024-09-10T11:15:36.308Z [info]: Block 20719858 saved in database.
+2024-09-10T11:16:00.162Z [info]: New block: 
+2024-09-10T11:16:00.847Z [info]: Processing block 20719859
+2024-09-10T11:16:00.882Z [info]: Block 20719859 saved in database.
+2024-09-10T11:16:12.221Z [info]: New block: 
+2024-09-10T11:16:12.988Z [info]: Processing block 20719860
+2024-09-10T11:16:13.022Z [info]: Block 20719860 saved in database.
+2024-09-10T11:16:23.234Z [info]: New block: 
+2024-09-10T11:16:23.776Z [info]: Processing block 20719861
+2024-09-10T11:16:23.810Z [info]: Block 20719861 saved in database.
+2024-09-10T11:16:35.347Z [info]: New block: 
+2024-09-10T11:16:35.882Z [info]: Processing block 20719862
+2024-09-10T11:16:35.917Z [info]: Block 20719862 saved in database.
+2024-09-10T11:16:47.566Z [info]: New block: 
+2024-09-10T11:16:48.176Z [info]: Processing block 20719863
+2024-09-10T11:16:48.269Z [info]: Block 20719863 saved in database.
+2024-09-10T11:16:59.387Z [info]: New block: 
+2024-09-10T11:16:59.926Z [info]: Processing block 20719864
+2024-09-10T11:17:00.011Z [info]: Block 20719864 saved in database.
+2024-09-10T11:17:10.929Z [info]: New block: 
+2024-09-10T11:17:11.534Z [info]: Processing block 20719865
+2024-09-10T11:17:11.574Z [info]: Block 20719865 saved in database.
+2024-09-10T11:17:23.218Z [info]: New block: 
+2024-09-10T11:17:23.806Z [info]: Processing block 20719866
+2024-09-10T11:17:23.841Z [info]: Block 20719866 saved in database.
+2024-09-10T11:17:35.090Z [info]: New block: 
+2024-09-10T11:17:35.608Z [info]: Processing block 20719867
+2024-09-10T11:17:35.645Z [info]: Block 20719867 saved in database.
+2024-09-10T11:17:47.300Z [info]: New block: 
+2024-09-10T11:17:48.117Z [info]: Processing block 20719868
+2024-09-10T11:17:48.150Z [info]: Block 20719868 saved in database.
+2024-09-10T11:17:59.223Z [info]: New block: 
+2024-09-10T11:17:59.787Z [info]: Processing block 20719869
+2024-09-10T11:17:59.827Z [info]: Block 20719869 saved in database.
+2024-09-10T11:18:11.334Z [info]: New block: 
+2024-09-10T11:18:11.838Z [info]: Processing block 20719870
+2024-09-10T11:18:11.873Z [info]: Block 20719870 saved in database.
+2024-09-10T11:18:23.256Z [info]: New block: 
+2024-09-10T11:18:26.279Z [info]: Processing block 20719871
+2024-09-10T11:18:26.312Z [info]: Block 20719871 saved in database.
+2024-09-10T11:18:36.412Z [info]: New block: 
+2024-09-10T11:18:38.062Z [info]: Processing block 20719872
+2024-09-10T11:18:38.096Z [info]: Block 20719872 saved in database.
+2024-09-10T11:18:47.408Z [info]: New block: 
+2024-09-10T11:18:48.203Z [info]: Processing block 20719873
+2024-09-10T11:18:48.245Z [info]: Block 20719873 saved in database.
+2024-09-10T11:18:59.042Z [info]: New block: 
+2024-09-10T11:19:01.438Z [info]: Processing block 20719874
+2024-09-10T11:19:01.472Z [info]: Block 20719874 saved in database.
+2024-09-10T11:19:11.096Z [info]: New block: 
+2024-09-10T11:19:12.325Z [info]: Processing block 20719875
+2024-09-10T11:19:12.360Z [info]: Block 20719875 saved in database.
+2024-09-10T11:19:22.676Z [info]: New block: 
+2024-09-10T11:19:23.899Z [info]: Processing block 20719876
+2024-09-10T11:19:23.933Z [info]: Block 20719876 saved in database.
+2024-09-10T11:19:36.325Z [info]: New block: 
+2024-09-10T11:19:37.782Z [info]: Processing block 20719877
+2024-09-10T11:19:37.817Z [info]: Block 20719877 saved in database.
+2024-09-10T11:19:47.233Z [info]: New block: 
+2024-09-10T11:19:48.529Z [info]: Processing block 20719878
+2024-09-10T11:19:48.563Z [info]: Block 20719878 saved in database.
+2024-09-10T11:19:59.440Z [info]: New block: 
+2024-09-10T11:20:00.891Z [info]: Processing block 20719879
+2024-09-10T11:20:00.927Z [info]: Block 20719879 saved in database.
+2024-09-10T11:20:11.324Z [info]: New block: 
+2024-09-10T11:20:12.534Z [info]: Processing block 20719880
+2024-09-10T11:20:12.568Z [info]: Block 20719880 saved in database.
+2024-09-10T11:20:23.336Z [info]: New block: 
+2024-09-10T11:20:25.902Z [info]: Processing block 20719881
+2024-09-10T11:20:25.936Z [info]: Block 20719881 saved in database.
+2024-09-10T11:20:34.895Z [info]: New block: 
+2024-09-10T11:21:56.417Z [info]: Fetching deposits from block 20719838 to 20719888
+2024-09-10T11:21:56.662Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:21:56.663Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:21:56.664Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:21:59.710Z [info]: New block: 
+2024-09-10T11:22:00.783Z [info]: Processing block 20719889
+2024-09-10T11:22:00.828Z [info]: Block 20719889 saved in database.
+2024-09-10T11:22:11.221Z [info]: New block: 
+2024-09-10T11:22:11.777Z [info]: Processing block 20719890
+2024-09-10T11:22:11.816Z [info]: Block 20719890 saved in database.
+2024-09-10T11:22:23.450Z [info]: New block: 
+2024-09-10T11:22:23.962Z [info]: Processing block 20719891
+2024-09-10T11:22:24.002Z [info]: Block 20719891 saved in database.
+2024-09-10T11:22:34.966Z [info]: New block: 
+2024-09-10T11:22:35.530Z [info]: Processing block 20719892
+2024-09-10T11:22:35.565Z [info]: Block 20719892 saved in database.
+2024-09-10T11:22:46.739Z [info]: New block: 
+2024-09-10T11:22:47.234Z [info]: Processing block 20719893
+2024-09-10T11:22:47.269Z [info]: Block 20719893 saved in database.
+2024-09-10T11:22:59.287Z [info]: New block: 
+2024-09-10T11:22:59.937Z [info]: Processing block 20719894
+2024-09-10T11:22:59.971Z [info]: Block 20719894 saved in database.
+2024-09-10T11:23:11.367Z [info]: New block: 
+2024-09-10T11:23:11.903Z [info]: Processing block 20719895
+2024-09-10T11:23:11.940Z [info]: Block 20719895 saved in database.
+2024-09-10T11:23:23.933Z [info]: New block: 
+2024-09-10T11:23:24.531Z [info]: Processing block 20719896
+2024-09-10T11:23:24.564Z [info]: Block 20719896 saved in database.
+2024-09-10T11:23:35.056Z [info]: New block: 
+2024-09-10T11:23:35.686Z [info]: Processing block 20719897
+2024-09-10T11:23:35.722Z [info]: Block 20719897 saved in database.
+2024-09-10T11:23:47.371Z [info]: New block: 
+2024-09-10T11:23:47.893Z [info]: Processing block 20719898
+2024-09-10T11:23:47.926Z [info]: Block 20719898 saved in database.
+2024-09-10T11:23:59.089Z [info]: New block: 
+2024-09-10T11:23:59.609Z [info]: Processing block 20719899
+2024-09-10T11:23:59.649Z [info]: Block 20719899 saved in database.
+2024-09-10T11:24:12.144Z [info]: New block: 
+2024-09-10T11:24:12.895Z [info]: Processing block 20719900
+2024-09-10T11:24:13.085Z [info]: Block 20719900 saved in database.
+2024-09-10T11:24:23.432Z [info]: New block: 
+2024-09-10T11:26:12.357Z [info]: Fetching deposits from block 20719860 to 20719910
+2024-09-10T11:26:12.613Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:26:12.614Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:26:12.615Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:26:23.471Z [info]: New block: 
+2024-09-10T11:26:24.569Z [info]: Processing block 20719911
+2024-09-10T11:26:24.615Z [info]: Block 20719911 saved in database.
+2024-09-10T11:26:35.195Z [info]: New block: 
+2024-09-10T11:26:36.052Z [info]: Processing block 20719912
+2024-09-10T11:26:36.092Z [info]: Block 20719912 saved in database.
+2024-09-10T11:26:36.325Z [error]: Error processing log data: Cannot read properties of undefined (reading 'emit')
+2024-09-10T11:26:36.328Z [error]: Error processing log data: Cannot read properties of undefined (reading 'emit')
+2024-09-10T11:26:47.211Z [info]: New block: 
+2024-09-10T11:26:47.809Z [info]: Processing block 20719913
+2024-09-10T11:26:47.845Z [info]: Block 20719913 saved in database.
+2024-09-10T11:26:59.515Z [info]: New block: 
+2024-09-10T11:27:00.463Z [info]: Processing block 20719914
+2024-09-10T11:27:00.497Z [info]: Block 20719914 saved in database.
+2024-09-10T11:27:11.354Z [info]: New block: 
+2024-09-10T11:27:12.507Z [info]: Processing block 20719915
+2024-09-10T11:27:12.543Z [info]: Block 20719915 saved in database.
+2024-09-10T11:27:23.769Z [info]: New block: 
+2024-09-10T11:27:24.576Z [info]: Processing block 20719916
+2024-09-10T11:27:24.612Z [info]: Block 20719916 saved in database.
+2024-09-10T11:27:35.665Z [info]: New block: 
+2024-09-10T11:27:36.329Z [info]: Processing block 20719917
+2024-09-10T11:27:36.377Z [info]: Block 20719917 saved in database.
+2024-09-10T11:27:48.731Z [info]: New block: 
+2024-09-10T11:27:49.305Z [info]: Processing block 20719918
+2024-09-10T11:27:49.341Z [info]: Block 20719918 saved in database.
+2024-09-10T11:27:59.362Z [info]: New block: 
+2024-09-10T11:27:59.965Z [info]: Processing block 20719919
+2024-09-10T11:28:00.000Z [info]: Block 20719919 saved in database.
+2024-09-10T11:28:10.677Z [info]: New block: 
+2024-09-10T11:28:11.161Z [info]: Processing block 20719920
+2024-09-10T11:28:11.199Z [info]: Block 20719920 saved in database.
+2024-09-10T11:28:23.142Z [info]: New block: 
+2024-09-10T11:28:23.737Z [info]: Processing block 20719921
+2024-09-10T11:28:23.781Z [info]: Block 20719921 saved in database.
+2024-09-10T11:28:35.558Z [info]: New block: 
+2024-09-10T11:28:36.167Z [info]: Processing block 20719922
+2024-09-10T11:28:36.207Z [info]: Block 20719922 saved in database.
+2024-09-10T11:28:47.048Z [info]: New block: 
+2024-09-10T11:28:47.641Z [info]: Processing block 20719923
+2024-09-10T11:28:47.679Z [info]: Block 20719923 saved in database.
+2024-09-10T11:28:59.521Z [info]: New block: 
+2024-09-10T11:29:00.079Z [info]: Processing block 20719924
+2024-09-10T11:29:00.112Z [info]: Block 20719924 saved in database.
+2024-09-10T11:29:11.158Z [info]: New block: 
+2024-09-10T11:29:11.630Z [info]: Processing block 20719925
+2024-09-10T11:29:11.664Z [info]: Block 20719925 saved in database.
+2024-09-10T11:29:23.300Z [info]: New block: 
+2024-09-10T11:29:23.826Z [info]: Processing block 20719926
+2024-09-10T11:29:23.860Z [info]: Block 20719926 saved in database.
+2024-09-10T11:29:36.608Z [info]: New block: 
+2024-09-10T11:29:37.300Z [info]: Processing block 20719927
+2024-09-10T11:29:37.335Z [info]: Block 20719927 saved in database.
+2024-09-10T11:29:47.660Z [info]: New block: 
+2024-09-10T11:29:48.168Z [info]: Processing block 20719928
+2024-09-10T11:29:48.202Z [info]: Block 20719928 saved in database.
+2024-09-10T11:29:59.366Z [info]: New block: 
+2024-09-10T11:29:59.792Z [info]: Processing block 20719929
+2024-09-10T11:29:59.826Z [info]: Block 20719929 saved in database.
+2024-09-10T11:30:11.767Z [info]: New block: 
+2024-09-10T11:30:12.426Z [info]: Processing block 20719930
+2024-09-10T11:30:12.464Z [info]: Block 20719930 saved in database.
+2024-09-10T11:30:23.480Z [info]: New block: 
+2024-09-10T11:30:23.948Z [info]: Processing block 20719931
+2024-09-10T11:30:23.991Z [info]: Block 20719931 saved in database.
+2024-09-10T11:30:34.952Z [info]: New block: 
+2024-09-10T11:30:35.391Z [info]: Processing block 20719932
+2024-09-10T11:30:35.424Z [info]: Block 20719932 saved in database.
+2024-09-10T11:30:47.223Z [info]: New block: 
+2024-09-10T11:30:48.027Z [info]: Processing block 20719933
+2024-09-10T11:30:48.063Z [info]: Block 20719933 saved in database.
+2024-09-10T11:31:00.085Z [info]: New block: 
+2024-09-10T11:31:00.620Z [info]: Processing block 20719934
+2024-09-10T11:31:00.654Z [info]: Block 20719934 saved in database.
+2024-09-10T11:31:12.409Z [info]: New block: 
+2024-09-10T11:31:13.022Z [info]: Processing block 20719935
+2024-09-10T11:31:13.069Z [info]: Block 20719935 saved in database.
+2024-09-10T11:31:23.280Z [info]: New block: 
+2024-09-10T11:31:23.871Z [info]: Processing block 20719936
+2024-09-10T11:31:23.906Z [info]: Block 20719936 saved in database.
+2024-09-10T11:31:34.861Z [info]: New block: 
+2024-09-10T11:31:35.409Z [info]: Processing block 20719937
+2024-09-10T11:31:35.443Z [info]: Block 20719937 saved in database.
+2024-09-10T11:31:47.131Z [info]: New block: 
+2024-09-10T11:31:47.750Z [info]: Processing block 20719938
+2024-09-10T11:31:47.793Z [info]: Block 20719938 saved in database.
+2024-09-10T11:31:48.019Z [error]: Error processing log data: Cannot read properties of undefined (reading 'emit')
+2024-09-10T11:31:59.243Z [info]: New block: 
+2024-09-10T11:31:59.726Z [info]: Processing block 20719939
+2024-09-10T11:31:59.760Z [info]: Block 20719939 saved in database.
+2024-09-10T11:32:09.803Z [info]: Fetching deposits from block 20719889 to 20719939
+2024-09-10T11:32:10.858Z [info]: New deposit saved to database:
+2024-09-10T11:32:11.575Z [info]: New deposit saved to database:
+2024-09-10T11:32:12.258Z [info]: New deposit saved to database:
+2024-09-10T11:32:12.373Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:32:12.374Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:32:12.375Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:37:55.709Z [info]: Fetching deposits from block 20719918 to 20719968
+2024-09-10T11:37:56.726Z [info]: New deposit saved to database:
+2024-09-10T11:37:56.830Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:38:02.869Z [info]: Fetching deposits from block 20719919 to 20719969
+2024-09-10T11:38:03.884Z [info]: New deposit saved to database:
+2024-09-10T11:38:03.989Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:38:16.831Z [info]: Fetching deposits from block 20719920 to 20719970
+2024-09-10T11:38:19.322Z [info]: Fetching deposits from block 20719920 to 20719970
+2024-09-10T11:38:20.379Z [info]: New deposit saved to database:
+2024-09-10T11:38:20.490Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:38:57.201Z [info]: Fetching deposits from block 20719923 to 20719973
+2024-09-10T11:38:58.286Z [info]: New deposit saved to database:
+2024-09-10T11:38:58.390Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:38:58.391Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:38:58.392Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:40:09.749Z [info]: Fetching deposits from block 20719929 to 20719979
+2024-09-10T11:40:10.884Z [info]: New deposit saved to database:
+2024-09-10T11:40:10.986Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:40:10.987Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:40:10.988Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:40:11.586Z [info]: New block: 
+2024-09-10T11:40:13.023Z [info]: Processing block 20719980
+2024-09-10T11:40:13.060Z [info]: Block 20719980 saved in database.
+2024-09-10T11:40:24.307Z [info]: New block: 
+2024-09-10T11:40:25.199Z [info]: Processing block 20719981
+2024-09-10T11:40:25.235Z [info]: Block 20719981 saved in database.
+2024-09-10T11:40:36.103Z [info]: New block: 
+2024-09-10T11:40:37.080Z [info]: Processing block 20719982
+2024-09-10T11:40:37.117Z [info]: Block 20719982 saved in database.
+2024-09-10T11:40:47.097Z [info]: New block: 
+2024-09-10T11:40:47.762Z [info]: Processing block 20719983
+2024-09-10T11:40:47.797Z [info]: Block 20719983 saved in database.
+2024-09-10T11:40:58.974Z [info]: New block: 
+2024-09-10T11:40:59.798Z [info]: Processing block 20719984
+2024-09-10T11:40:59.834Z [info]: Block 20719984 saved in database.
+2024-09-10T11:41:11.112Z [info]: New block: 
+2024-09-10T11:41:11.628Z [info]: Processing block 20719985
+2024-09-10T11:41:11.671Z [info]: Block 20719985 saved in database.
+2024-09-10T11:41:23.013Z [info]: New block: 
+2024-09-10T11:41:24.161Z [info]: Processing block 20719986
+2024-09-10T11:41:24.197Z [info]: Block 20719986 saved in database.
+2024-09-10T11:41:35.367Z [info]: New block: 
+2024-09-10T11:41:36.339Z [info]: Processing block 20719987
+2024-09-10T11:41:36.385Z [info]: Block 20719987 saved in database.
+2024-09-10T11:41:47.849Z [info]: New block: 
+2024-09-10T11:41:48.772Z [info]: Processing block 20719988
+2024-09-10T11:41:49.041Z [info]: Block 20719988 saved in database.
+2024-09-10T11:41:59.617Z [info]: New block: 
+2024-09-10T11:42:00.264Z [info]: Processing block 20719989
+2024-09-10T11:42:00.302Z [info]: Block 20719989 saved in database.
+2024-09-10T11:42:11.738Z [info]: New block: 
+2024-09-10T11:42:12.204Z [info]: Processing block 20719990
+2024-09-10T11:42:12.391Z [info]: Block 20719990 saved in database.
+2024-09-10T11:42:23.387Z [info]: Fetching deposits from block 20719940 to 20719990
+2024-09-10T11:42:23.651Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:42:23.652Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:42:23.654Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:42:24.778Z [info]: New block: 
+2024-09-10T11:42:26.186Z [info]: Processing block 20719991
+2024-09-10T11:42:26.230Z [info]: Block 20719991 saved in database.
+2024-09-10T11:42:34.301Z [info]: New block: 
+2024-09-10T11:42:34.697Z [info]: Processing block 20719992
+2024-09-10T11:42:34.733Z [info]: Block 20719992 saved in database.
+2024-09-10T11:42:47.232Z [info]: New block: 
+2024-09-10T11:42:47.910Z [info]: Processing block 20719993
+2024-09-10T11:42:47.945Z [info]: Block 20719993 saved in database.
+2024-09-10T11:42:59.524Z [info]: New block: 
+2024-09-10T11:43:00.089Z [info]: Processing block 20719994
+2024-09-10T11:43:00.141Z [info]: Block 20719994 saved in database.
+2024-09-10T11:43:12.803Z [info]: New block: 
+2024-09-10T11:43:13.794Z [info]: Processing block 20719995
+2024-09-10T11:43:13.833Z [info]: Block 20719995 saved in database.
+2024-09-10T11:43:23.274Z [info]: New block: 
+2024-09-10T11:43:23.954Z [info]: Processing block 20719996
+2024-09-10T11:43:23.990Z [info]: Block 20719996 saved in database.
+2024-09-10T11:45:22.027Z [info]: Fetching deposits from block 20719955 to 20720005
+2024-09-10T11:45:22.275Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:45:22.276Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:45:22.277Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:45:23.563Z [info]: New block: 
+2024-09-10T11:45:24.804Z [info]: Processing block 20720006
+2024-09-10T11:45:24.849Z [info]: Block 20720006 saved in database.
+2024-09-10T11:45:35.274Z [info]: New block: 
+2024-09-10T11:45:35.831Z [info]: Processing block 20720007
+2024-09-10T11:45:35.907Z [info]: Block 20720007 saved in database.
+2024-09-10T11:45:47.028Z [info]: New block: 
+2024-09-10T11:45:47.610Z [info]: Processing block 20720008
+2024-09-10T11:45:47.645Z [info]: Block 20720008 saved in database.
+2024-09-10T11:45:59.357Z [info]: New block: 
+2024-09-10T11:45:59.937Z [info]: Processing block 20720009
+2024-09-10T11:46:00.005Z [info]: Block 20720009 saved in database.
+2024-09-10T11:46:11.545Z [info]: New block: 
+2024-09-10T11:46:12.310Z [info]: Processing block 20720010
+2024-09-10T11:46:12.351Z [info]: Block 20720010 saved in database.
+2024-09-10T11:46:23.461Z [info]: New block: 
+2024-09-10T11:46:24.061Z [info]: Processing block 20720011
+2024-09-10T11:46:24.097Z [info]: Block 20720011 saved in database.
+2024-09-10T11:46:36.939Z [info]: New block: 
+2024-09-10T11:46:37.793Z [info]: Processing block 20720012
+2024-09-10T11:46:37.827Z [info]: Block 20720012 saved in database.
+2024-09-10T11:46:47.479Z [info]: New block: 
+2024-09-10T11:46:48.054Z [info]: Processing block 20720013
+2024-09-10T11:46:48.087Z [info]: Block 20720013 saved in database.
+2024-09-10T11:47:00.243Z [info]: New block: 
+2024-09-10T11:47:00.831Z [info]: Processing block 20720014
+2024-09-10T11:47:00.867Z [info]: Block 20720014 saved in database.
+2024-09-10T11:47:11.541Z [info]: New block: 
+2024-09-10T11:47:12.467Z [info]: Processing block 20720015
+2024-09-10T11:47:12.503Z [info]: Block 20720015 saved in database.
+2024-09-10T11:47:23.484Z [info]: New block: 
+2024-09-10T11:47:24.094Z [info]: Processing block 20720016
+2024-09-10T11:47:24.148Z [info]: Block 20720016 saved in database.
+2024-09-10T11:47:35.735Z [info]: New block: 
+2024-09-10T11:47:36.517Z [info]: Processing block 20720017
+2024-09-10T11:47:36.561Z [info]: Block 20720017 saved in database.
+2024-09-10T11:47:47.305Z [info]: New block: 
+2024-09-10T11:47:47.954Z [info]: Processing block 20720018
+2024-09-10T11:47:47.990Z [info]: Block 20720018 saved in database.
+2024-09-10T11:47:58.813Z [info]: New block: 
+2024-09-10T11:47:59.410Z [info]: Processing block 20720019
+2024-09-10T11:47:59.447Z [info]: Block 20720019 saved in database.
+2024-09-10T11:48:10.891Z [info]: New block: 
+2024-09-10T11:48:11.705Z [info]: Processing block 20720020
+2024-09-10T11:48:11.751Z [info]: Block 20720020 saved in database.
+2024-09-10T11:48:23.214Z [info]: New block: 
+2024-09-10T11:48:23.809Z [info]: Processing block 20720021
+2024-09-10T11:48:23.845Z [info]: Block 20720021 saved in database.
+2024-09-10T11:48:35.596Z [info]: New block: 
+2024-09-10T11:48:36.306Z [info]: Processing block 20720022
+2024-09-10T11:48:36.341Z [info]: Block 20720022 saved in database.
+2024-09-10T11:48:46.907Z [info]: New block: 
+2024-09-10T11:48:47.495Z [info]: Processing block 20720023
+2024-09-10T11:48:47.533Z [info]: Block 20720023 saved in database.
+2024-09-10T11:48:59.534Z [info]: New block: 
+2024-09-10T11:49:00.335Z [info]: Processing block 20720024
+2024-09-10T11:49:00.371Z [info]: Block 20720024 saved in database.
+2024-09-10T11:49:11.145Z [info]: New block: 
+2024-09-10T11:49:11.814Z [info]: Processing block 20720025
+2024-09-10T11:49:11.850Z [info]: Block 20720025 saved in database.
+2024-09-10T11:49:23.048Z [info]: New block: 
+2024-09-10T11:49:23.616Z [info]: Processing block 20720026
+2024-09-10T11:49:23.652Z [info]: Block 20720026 saved in database.
+2024-09-10T11:49:36.547Z [info]: New block: 
+2024-09-10T11:49:37.216Z [info]: Processing block 20720027
+2024-09-10T11:49:37.257Z [info]: Block 20720027 saved in database.
+2024-09-10T11:50:00.436Z [info]: New block: 
+2024-09-10T11:50:01.104Z [info]: Processing block 20720028
+2024-09-10T11:50:01.142Z [info]: Block 20720028 saved in database.
+2024-09-10T11:50:13.600Z [info]: Fetching deposits from block 20719979 to 20720029
+2024-09-10T11:50:13.858Z [info]: All previous deposits fetched and saved.
+2024-09-10T11:50:13.859Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T11:50:13.860Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T11:50:23.228Z [info]: New block: 
+2024-09-10T11:50:24.993Z [info]: Processing block 20720030
+2024-09-10T11:50:25.041Z [info]: Block 20720030 saved in database.
+2024-09-10T11:50:34.378Z [info]: New block: 
+2024-09-10T11:50:34.997Z [info]: Processing block 20720031
+2024-09-10T11:50:35.036Z [info]: Block 20720031 saved in database.
+2024-09-10T11:50:48.246Z [info]: New block: 
+2024-09-10T11:50:48.802Z [info]: Processing block 20720032
+2024-09-10T11:50:48.838Z [info]: Block 20720032 saved in database.
+2024-09-10T11:50:59.826Z [info]: New block: 
+2024-09-10T11:51:00.325Z [info]: Processing block 20720033
+2024-09-10T11:51:00.361Z [info]: Block 20720033 saved in database.
+2024-09-10T11:51:11.369Z [info]: New block: 
+2024-09-10T11:51:12.109Z [info]: Processing block 20720034
+2024-09-10T11:51:12.151Z [info]: Block 20720034 saved in database.
+2024-09-10T11:51:22.940Z [info]: New block: 
+2024-09-10T11:51:23.489Z [info]: Processing block 20720035
+2024-09-10T11:51:23.525Z [info]: Block 20720035 saved in database.
+2024-09-10T11:51:35.663Z [info]: New block: 
+2024-09-10T11:51:36.302Z [info]: Processing block 20720036
+2024-09-10T11:51:36.340Z [info]: Block 20720036 saved in database.
+2024-09-10T11:51:47.407Z [info]: New block: 
+2024-09-10T11:51:48.059Z [info]: Processing block 20720037
+2024-09-10T11:51:48.094Z [info]: Block 20720037 saved in database.
+2024-09-10T12:05:36.034Z [info]: Fetching deposits from block 20720055 to 20720105
+2024-09-10T12:05:36.299Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:05:36.300Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:05:36.301Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:05:48.037Z [info]: New block: 
+2024-09-10T12:05:49.345Z [info]: Processing block 20720106
+2024-09-10T12:05:49.393Z [info]: Block 20720106 saved in database.
+2024-09-10T12:05:59.389Z [info]: New block: 
+2024-09-10T12:06:00.026Z [info]: Processing block 20720107
+2024-09-10T12:06:00.062Z [info]: Block 20720107 saved in database.
+2024-09-10T12:06:12.389Z [info]: New block: 
+2024-09-10T12:06:12.940Z [info]: Processing block 20720108
+2024-09-10T12:06:12.975Z [info]: Block 20720108 saved in database.
+2024-09-10T12:06:35.765Z [info]: New block: 
+2024-09-10T12:06:36.526Z [info]: Processing block 20720109
+2024-09-10T12:06:36.561Z [info]: Block 20720109 saved in database.
+2024-09-10T12:06:46.580Z [info]: New block: 
+2024-09-10T12:06:47.192Z [info]: Processing block 20720110
+2024-09-10T12:06:47.229Z [info]: Block 20720110 saved in database.
+2024-09-10T12:06:59.306Z [info]: New block: 
+2024-09-10T12:06:59.867Z [info]: Processing block 20720111
+2024-09-10T12:06:59.902Z [info]: Block 20720111 saved in database.
+2024-09-10T12:07:11.072Z [info]: New block: 
+2024-09-10T12:07:11.618Z [info]: Processing block 20720112
+2024-09-10T12:07:11.661Z [info]: Block 20720112 saved in database.
+2024-09-10T12:07:23.015Z [info]: New block: 
+2024-09-10T12:07:23.595Z [info]: Processing block 20720113
+2024-09-10T12:07:23.638Z [info]: Block 20720113 saved in database.
+2024-09-10T12:07:39.721Z [info]: Fetching deposits from block 20720064 to 20720114
+2024-09-10T12:07:39.988Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:07:39.989Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:07:39.991Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:07:47.506Z [info]: New block: 
+2024-09-10T12:07:48.933Z [info]: Processing block 20720115
+2024-09-10T12:07:48.977Z [info]: Block 20720115 saved in database.
+2024-09-10T12:07:59.300Z [info]: New block: 
+2024-09-10T12:07:59.925Z [info]: Processing block 20720116
+2024-09-10T12:07:59.960Z [info]: Block 20720116 saved in database.
+2024-09-10T12:08:06.848Z [info]: Fetching deposits from block 20720066 to 20720116
+2024-09-10T12:08:07.087Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:08:07.088Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:08:07.089Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:09:33.981Z [info]: Fetching deposits from block 20720073 to 20720123
+2024-09-10T12:09:34.246Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:09:34.246Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:09:34.248Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:09:44.199Z [info]: Fetching deposits from block 20720074 to 20720124
+2024-09-10T12:09:44.468Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:09:44.469Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:09:44.470Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:19:30.580Z [info]: Fetching deposits from block 20720123 to 20720173
+2024-09-10T12:19:31.589Z [info]: New deposit saved to database:
+2024-09-10T12:19:32.243Z [info]: New deposit saved to database:
+2024-09-10T12:19:32.352Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:19:32.353Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:19:32.354Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:19:38.181Z [info]: Fetching deposits from block 20720124 to 20720174
+2024-09-10T12:19:39.237Z [info]: New deposit saved to database:
+2024-09-10T12:19:39.937Z [info]: New deposit saved to database:
+2024-09-10T12:19:40.048Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:19:40.049Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:19:40.050Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:22:34.318Z [info]: Fetching deposits from block 20720138 to 20720188
+2024-09-10T12:22:35.391Z [info]: New deposit saved to database:
+2024-09-10T12:22:36.095Z [info]: New deposit saved to database:
+2024-09-10T12:22:36.203Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:22:36.204Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:22:36.205Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:23:56.072Z [info]: Fetching deposits from block 20720145 to 20720195
+2024-09-10T12:23:57.087Z [info]: New deposit saved to database:
+2024-09-10T12:23:57.749Z [info]: New deposit saved to database:
+2024-09-10T12:23:57.849Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:23:57.850Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:23:57.851Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:25:17.909Z [info]: Fetching deposits from block 20720152 to 20720202
+2024-09-10T12:25:19.014Z [info]: New deposit saved to database:
+2024-09-10T12:25:19.768Z [info]: New deposit saved to database:
+2024-09-10T12:25:19.877Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:25:19.878Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:25:19.879Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:27:08.910Z [info]: Fetching deposits from block 20720161 to 20720211
+2024-09-10T12:27:09.166Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:27:09.167Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:27:09.168Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:29:47.589Z [info]: Fetching deposits from block 20720174 to 20720224
+2024-09-10T12:29:47.848Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:29:47.849Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:29:47.850Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:30:24.353Z [info]: New deposit saved to database:
+2024-09-10T12:30:36.069Z [info]: New deposit saved to database:
+2024-09-10T12:30:36.082Z [info]: New deposit saved to database:
+2024-09-10T12:30:48.083Z [info]: New deposit saved to database:
+2024-09-10T12:31:00.867Z [info]: New deposit saved to database:
+2024-09-10T12:31:12.404Z [info]: New deposit saved to database:
+2024-09-10T12:31:12.422Z [info]: New deposit saved to database:
+2024-09-10T12:31:23.994Z [info]: New deposit saved to database:
+2024-09-10T12:31:36.092Z [info]: New deposit saved to database:
+2024-09-10T12:31:36.099Z [info]: New deposit saved to database:
+2024-09-10T12:31:48.367Z [info]: New deposit saved to database:
+2024-09-10T12:32:00.415Z [info]: New deposit saved to database:
+2024-09-10T12:32:12.205Z [info]: New deposit saved to database:
+2024-09-10T12:32:12.218Z [info]: New deposit saved to database:
+2024-09-10T12:32:25.310Z [info]: New deposit saved to database:
+2024-09-10T12:32:35.688Z [info]: New deposit saved to database:
+2024-09-10T12:32:35.706Z [info]: New deposit saved to database:
+2024-09-10T12:32:49.389Z [info]: New deposit saved to database:
+2024-09-10T12:33:01.779Z [info]: New deposit saved to database:
+2024-09-10T12:33:12.773Z [info]: New deposit saved to database:
+2024-09-10T12:33:12.778Z [info]: New deposit saved to database:
+2024-09-10T12:33:24.184Z [info]: New deposit saved to database:
+2024-09-10T12:33:36.747Z [info]: New deposit saved to database:
+2024-09-10T12:33:48.362Z [info]: New deposit saved to database:
+2024-09-10T12:33:48.390Z [info]: New deposit saved to database:
+2024-09-10T12:34:00.148Z [info]: New deposit saved to database:
+2024-09-10T12:34:23.837Z [info]: New deposit saved to database:
+2024-09-10T12:34:23.838Z [info]: New deposit saved to database:
+2024-09-10T12:34:23.872Z [info]: New deposit saved to database:
+2024-09-10T12:34:23.874Z [info]: New deposit saved to database:
+2024-09-10T12:34:23.906Z [info]: New deposit saved to database:
+2024-09-10T12:34:23.906Z [info]: New deposit saved to database:
+2024-09-10T12:34:23.941Z [info]: New deposit saved to database:
+2024-09-10T12:34:23.942Z [info]: New deposit saved to database:
+2024-09-10T12:34:23.973Z [info]: New deposit saved to database:
+2024-09-10T12:34:23.975Z [info]: New deposit saved to database:
+2024-09-10T12:34:24.096Z [info]: New deposit saved to database:
+2024-09-10T12:34:24.097Z [info]: New deposit saved to database:
+2024-09-10T12:36:53.716Z [info]: Fetching deposits from block 20720210 to 20720260
+2024-09-10T12:36:55.086Z [info]: New deposit saved to database:
+2024-09-10T12:36:55.791Z [info]: New deposit saved to database:
+2024-09-10T12:36:56.589Z [info]: New deposit saved to database:
+2024-09-10T12:36:57.258Z [info]: New deposit saved to database:
+2024-09-10T12:36:57.956Z [info]: New deposit saved to database:
+2024-09-10T12:36:58.633Z [info]: New deposit saved to database:
+2024-09-10T12:36:59.339Z [info]: New deposit saved to database:
+2024-09-10T12:37:00.028Z [info]: New deposit saved to database:
+2024-09-10T12:37:00.696Z [info]: New deposit saved to database:
+2024-09-10T12:37:01.390Z [info]: New deposit saved to database:
+2024-09-10T12:37:02.095Z [info]: New deposit saved to database:
+2024-09-10T12:37:02.823Z [info]: New deposit saved to database:
+2024-09-10T12:37:03.511Z [info]: New deposit saved to database:
+2024-09-10T12:37:04.206Z [info]: New deposit saved to database:
+2024-09-10T12:37:04.967Z [info]: New deposit saved to database:
+2024-09-10T12:37:05.646Z [info]: New deposit saved to database:
+2024-09-10T12:37:06.324Z [info]: New deposit saved to database:
+2024-09-10T12:37:07.028Z [info]: New deposit saved to database:
+2024-09-10T12:37:07.715Z [info]: New deposit saved to database:
+2024-09-10T12:37:08.411Z [info]: New deposit saved to database:
+2024-09-10T12:37:09.131Z [info]: New deposit saved to database:
+2024-09-10T12:37:09.822Z [info]: New deposit saved to database:
+2024-09-10T12:37:10.491Z [info]: New deposit saved to database:
+2024-09-10T12:37:11.180Z [info]: New deposit saved to database:
+2024-09-10T12:37:11.865Z [info]: New deposit saved to database:
+2024-09-10T12:37:12.546Z [info]: New deposit saved to database:
+2024-09-10T12:37:13.218Z [info]: New deposit saved to database:
+2024-09-10T12:37:13.891Z [info]: New deposit saved to database:
+2024-09-10T12:37:14.563Z [info]: New deposit saved to database:
+2024-09-10T12:37:15.253Z [info]: New deposit saved to database:
+2024-09-10T12:37:15.944Z [info]: New deposit saved to database:
+2024-09-10T12:37:16.635Z [info]: New deposit saved to database:
+2024-09-10T12:37:17.313Z [info]: New deposit saved to database:
+2024-09-10T12:37:18.026Z [info]: New deposit saved to database:
+2024-09-10T12:37:18.713Z [info]: New deposit saved to database:
+2024-09-10T12:37:19.384Z [info]: New deposit saved to database:
+2024-09-10T12:37:20.066Z [info]: New deposit saved to database:
+2024-09-10T12:37:20.749Z [info]: New deposit saved to database:
+2024-09-10T12:37:20.860Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:37:20.861Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:37:20.862Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:40:51.561Z [info]: Fetching deposits from block 20720229 to 20720279
+2024-09-10T12:40:53.230Z [info]: New deposit saved to database:
+2024-09-10T12:40:53.935Z [info]: New deposit saved to database:
+2024-09-10T12:40:54.633Z [info]: New deposit saved to database:
+2024-09-10T12:40:55.364Z [info]: New deposit saved to database:
+2024-09-10T12:40:56.064Z [info]: New deposit saved to database:
+2024-09-10T12:40:56.744Z [info]: New deposit saved to database:
+2024-09-10T12:40:57.490Z [info]: New deposit saved to database:
+2024-09-10T12:40:58.192Z [info]: New deposit saved to database:
+2024-09-10T12:40:58.916Z [info]: New deposit saved to database:
+2024-09-10T12:40:59.633Z [info]: New deposit saved to database:
+2024-09-10T12:41:00.334Z [info]: New deposit saved to database:
+2024-09-10T12:41:01.032Z [info]: New deposit saved to database:
+2024-09-10T12:41:01.753Z [info]: New deposit saved to database:
+2024-09-10T12:41:02.485Z [info]: New deposit saved to database:
+2024-09-10T12:41:03.176Z [info]: New deposit saved to database:
+2024-09-10T12:41:03.878Z [info]: New deposit saved to database:
+2024-09-10T12:41:04.615Z [info]: New deposit saved to database:
+2024-09-10T12:41:05.306Z [info]: New deposit saved to database:
+2024-09-10T12:41:06.002Z [info]: New deposit saved to database:
+2024-09-10T12:41:06.701Z [info]: New deposit saved to database:
+2024-09-10T12:41:07.397Z [info]: New deposit saved to database:
+2024-09-10T12:41:08.088Z [info]: New deposit saved to database:
+2024-09-10T12:41:08.790Z [info]: New deposit saved to database:
+2024-09-10T12:41:09.502Z [info]: New deposit saved to database:
+2024-09-10T12:41:10.220Z [info]: New deposit saved to database:
+2024-09-10T12:41:10.908Z [info]: New deposit saved to database:
+2024-09-10T12:41:11.621Z [info]: New deposit saved to database:
+2024-09-10T12:41:12.328Z [info]: New deposit saved to database:
+2024-09-10T12:41:13.091Z [info]: New deposit saved to database:
+2024-09-10T12:41:13.794Z [info]: New deposit saved to database:
+2024-09-10T12:41:14.505Z [info]: New deposit saved to database:
+2024-09-10T12:41:15.199Z [info]: New deposit saved to database:
+2024-09-10T12:41:15.903Z [info]: New deposit saved to database:
+2024-09-10T12:41:16.600Z [info]: New deposit saved to database:
+2024-09-10T12:41:17.311Z [info]: New deposit saved to database:
+2024-09-10T12:41:18.017Z [info]: New deposit saved to database:
+2024-09-10T12:41:18.713Z [info]: New deposit saved to database:
+2024-09-10T12:41:18.814Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:41:18.815Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:41:18.817Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:42:05.629Z [info]: Fetching deposits from block 20720235 to 20720285
+2024-09-10T12:42:06.781Z [info]: New deposit saved to database:
+2024-09-10T12:42:07.482Z [info]: New deposit saved to database:
+2024-09-10T12:42:08.187Z [info]: New deposit saved to database:
+2024-09-10T12:42:09.034Z [info]: New deposit saved to database:
+2024-09-10T12:42:09.770Z [info]: New deposit saved to database:
+2024-09-10T12:42:10.443Z [info]: New deposit saved to database:
+2024-09-10T12:42:11.116Z [info]: New deposit saved to database:
+2024-09-10T12:42:11.833Z [info]: New deposit saved to database:
+2024-09-10T12:42:12.488Z [info]: New deposit saved to database:
+2024-09-10T12:42:13.310Z [info]: New deposit saved to database:
+2024-09-10T12:42:13.989Z [info]: New deposit saved to database:
+2024-09-10T12:42:14.648Z [info]: New deposit saved to database:
+2024-09-10T12:42:15.343Z [info]: New deposit saved to database:
+2024-09-10T12:42:16.025Z [info]: New deposit saved to database:
+2024-09-10T12:42:16.731Z [info]: New deposit saved to database:
+2024-09-10T12:42:17.403Z [info]: New deposit saved to database:
+2024-09-10T12:42:18.074Z [info]: New deposit saved to database:
+2024-09-10T12:42:18.755Z [info]: New deposit saved to database:
+2024-09-10T12:42:19.429Z [info]: New deposit saved to database:
+2024-09-10T12:42:20.111Z [info]: New deposit saved to database:
+2024-09-10T12:42:20.810Z [info]: New deposit saved to database:
+2024-09-10T12:42:21.481Z [info]: New deposit saved to database:
+2024-09-10T12:42:22.154Z [info]: New deposit saved to database:
+2024-09-10T12:42:22.872Z [info]: New deposit saved to database:
+2024-09-10T12:42:23.656Z [info]: New deposit saved to database:
+2024-09-10T12:42:24.307Z [info]: New deposit saved to database:
+2024-09-10T12:42:24.973Z [info]: New deposit saved to database:
+2024-09-10T12:42:25.665Z [info]: New deposit saved to database:
+2024-09-10T12:42:25.775Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:42:25.776Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:42:25.777Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:46:41.099Z [info]: Fetching deposits from block 20720257 to 20720307
+2024-09-10T12:46:41.405Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:46:41.406Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:46:41.407Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:46:44.234Z [info]: Fetching deposits from block 20720257 to 20720307
+2024-09-10T12:46:44.485Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:46:44.486Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:46:44.487Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:50:26.820Z [info]: Fetching deposits from block 20720276 to 20720326
+2024-09-10T12:50:27.075Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:50:27.076Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:50:27.077Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:53:26.035Z [info]: Fetching deposits from block 20720291 to 20720341
+2024-09-10T12:53:26.282Z [info]: All previous deposits fetched and saved.
+2024-09-10T12:53:26.283Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T12:53:26.285Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T12:55:36.530Z [info]: New deposit saved to database:
+2024-09-10T12:55:36.533Z [info]: New deposit saved to database:
+2024-09-10T13:00:45.501Z [info]: Fetching deposits from block 20720327 to 20720377
+2024-09-10T13:00:46.515Z [info]: New deposit saved to database:
+2024-09-10T13:00:47.189Z [info]: New deposit saved to database:
+2024-09-10T13:00:47.295Z [info]: All previous deposits fetched and saved.
+2024-09-10T13:00:47.296Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T13:00:47.297Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T13:04:14.001Z [info]: New deposit saved to database:
+2024-09-10T13:08:07.495Z [info]: Fetching deposits from block 20720363 to 20720413
+2024-09-10T13:13:00.730Z [info]: Fetching deposits from block 20720387 to 20720437
+2024-09-10T13:13:01.809Z [info]: New deposit saved to database:
+2024-09-10T13:13:01.920Z [info]: All previous deposits fetched and saved.
+2024-09-10T13:13:01.922Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T13:13:01.922Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T13:15:24.645Z [info]: New deposit saved to database:
+2024-09-10T13:16:00.420Z [info]: New deposit saved to database:
+2024-09-10T13:16:23.639Z [info]: New deposit saved to database:
+2024-09-10T13:16:47.695Z [info]: New deposit saved to database:
+2024-09-10T13:16:47.723Z [info]: New deposit saved to database:
+2024-09-10T13:16:59.598Z [info]: New deposit saved to database:
+2024-09-10T13:46:56.440Z [info]: Fetching deposits from block 20720553 to 20720603
+2024-09-10T13:46:57.708Z [info]: New deposit saved to database:
+2024-09-10T13:46:58.711Z [info]: New deposit saved to database:
+2024-09-10T13:46:59.765Z [info]: New deposit saved to database:
+2024-09-10T13:46:59.879Z [info]: All previous deposits fetched and saved.
+2024-09-10T13:46:59.880Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T13:46:59.881Z [info]: Successfully subscribed to Beacon Deposit Contract events
+2024-09-10T14:54:05.485Z [info]: Fetching deposits from block 20720885 to 20720935
+2024-09-10T14:54:06.523Z [info]: New deposit saved to database:
+2024-09-10T14:54:07.182Z [info]: New deposit saved to database:
+2024-09-10T14:54:07.852Z [info]: New deposit saved to database:
+2024-09-10T14:54:07.961Z [info]: All previous deposits fetched and saved.
+2024-09-10T14:54:07.962Z [info]: Subscribing to Beacon Deposit Contract events
+2024-09-10T14:54:07.963Z [info]: Successfully subscribed to Beacon Deposit Contract events
