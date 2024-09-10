@@ -1,4 +1,115 @@
+# Ethereum Deposit Tracker(includes docker image)
+
+## dockersteps
+
+Here’s a complete `README.md` file tailored for your Dockerized Ethereum Deposit Tracker project:
+
+---
+
 # Ethereum Deposit Tracker
+
+## Overview
+
+The Ethereum Deposit Tracker application monitors and stores Ethereum deposits on the Beacon Deposit Contract. It uses Node.js and MongoDB and is Dockerized to simplify deployment and management. The Docker image is available on Docker Hub.
+
+## Docker Image
+
+The Docker image for this project is available on Docker Hub:
+
+```
+docker.io/555yash555/ethereum-deposit-tracker:latest
+```
+
+## Prerequisites
+
+Before running the Docker container, ensure you have the following installed:
+
+- [Docker](https://docs.docker.com/get-docker/) (for building and running containers)
+- [Docker Compose](https://docs.docker.com/compose/install/) (optional, for managing multi-container Docker applications)
+
+## Getting Started
+
+Follow these instructions to access and run the Docker image.
+
+### 1. Pull the Docker Image
+
+To pull the Docker image from Docker Hub, use the following command:
+
+```bash
+docker pull 555yash555/ethereum-deposit-tracker:latest
+```
+
+### 2. Run the Docker Container
+
+Run the Docker container using the following command:
+
+```bash
+docker run -d \
+  --name ethereum-deposit-tracker \
+  -p 3000:3000 \
+  555yash555/ethereum-deposit-tracker:latest
+```
+
+- `-d` runs the container in detached mode.
+- `--name ethereum-deposit-tracker` assigns a name to the container.
+- `-p 3000:3000` maps port 3000 on the host to port 3000 in the container.
+
+### 3. Access the Application
+
+Once the container is running, you can access the application at:
+
+```
+http://localhost:3000
+```
+
+### 4. (Optional) Using Docker Compose
+
+If you have a `docker-compose.yml` file, you can manage the application and MongoDB services with Docker Compose. Create a `docker-compose.yml` file with the following content:
+
+```yaml
+version: "3"
+services:
+  app:
+    image: 555yash555/ethereum-deposit-tracker:latest
+    ports:
+      - "3000:3000"
+    environment:
+      - MONGODB_URI=mongodb://mongo:27017/ethereum-deposit-tracker
+      - ETH_RPC_URL=https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID
+  mongo:
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+```
+
+Start the services with Docker Compose:
+
+```bash
+docker-compose up
+```
+
+## Configuration
+
+Configure environment variables as needed. Create a `.env` file in the root directory with the required environment variables. Example `.env` file:
+
+```
+MONGODB_URI=mongodb://mongo:27017/ethereum-deposit-tracker
+ETH_RPC_URL=https://mainnet.infura.io/v3/YOUR_INFURA_PROJECT_ID
+```
+
+### Environment Variables
+
+- `MONGODB_URI`: MongoDB connection URI.
+- `ETH_RPC_URL`: Ethereum RPC URL for interacting with the Ethereum network.
+
+## Stopping and Removing the Container
+
+To stop and remove the running container, use:
+
+```bash
+docker stop ethereum-deposit-tracker
+docker rm ethereum-deposit-tracker
+```
 
 ## Overview
 
