@@ -1,6 +1,6 @@
 # Ethereum Deposit Tracker(includes docker image)
 
-# Ethereum Deposit Tracker
+
 
 ## Overview
 
