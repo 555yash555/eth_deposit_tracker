@@ -256,9 +256,6 @@ The application uses **Winston** for comprehensive logging. Logs are stored in t
 
 ![Alt text](image.png)
 
-## License
-
-This project is licensed under the MIT License.
 
 ## Troubleshooting
 
