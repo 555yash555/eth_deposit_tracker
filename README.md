@@ -13,7 +13,7 @@ The Ethereum Deposit Tracker application monitors and stores Ethereum deposits o
 
 
 ## Docker Image
-
+555yash555/ethereum-deposit-tracker
 The Docker image for this project is available on Docker Hub:
 
 ```
